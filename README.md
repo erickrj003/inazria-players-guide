@@ -22,7 +22,7 @@ npx quartz plugin install
 npx quartz build --serve
 ```
 
-Site URL: https://erickrj003.github.io/inazria-players-guide
+Site URL: https://erickrj.tech/inazria-players-guide
 
 ## Attribution
 
