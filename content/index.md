@@ -4,20 +4,21 @@ title: Inazria Player's Guide
 
 # Inazria Player's Guide
 
-This is the living player's guide for Inazria — the races, classes, spells, and world lore a traveler needs before setting foot on Azergad. It is meant to be read the way a handbook is used at the table: opened for a people, a calling, or a spell, then shut again when the dice come out.
+This is the living player's guide for Inazria: everything a traveler needs before setting foot on Azergad. Here, you'll find everything you need for creating characters and playing the game.
 
-Inazria sits on the continent of Azergad, in a world whose nations are bound by the Great Pact. Heroes here are shaped as much by bloodline and homeland as by the skills they learn on the road. However, nothing in these pages replaces the judgment of a Game Master or the fun of a table that knows when to bend a rule.
+Inazria sits on the continent of Azergad, in a world whose nations are bound by the Great Pact. Heroes here are shaped by bloodlines, homelands and the skills they learn on the road.
+
+This game is an actively updated WIP. The game is built on the core D&D 5.1e ruleset under the OGL and Creative Commons licenses. In the event that the rules must be clarified due to Inazria's inadequate writing, defer to the 5.1e ruleset for guidance. 
 
 ## Where to begin
 
 - [Classes](classes/overview.md) — primal and civil callings, and the contexts that refine them
-- [Races](races/humans.md) — the peoples of Azergad (start anywhere; Humans are a fair door in)
+- [Races](races/humans.md) — the peoples of Azergad. Inazria itself is primarily home to the Humans.
 - [Spells](spells.md) — spell lists and descriptions used by the setting's casters
-- [Lore](lore/lore.md) — the Realms, the Pact, and the shape of the world
-- [Speaking Like an Azergadling](lore/speaking-like-an-azergadling.md) — how people talk when they are not quoting a rulebook
+- [Summons and Companions](rules/summons-and-companions.md) — shared rules for summoned creatures and fighting companions
+- [Lore](lore/lore.md) — the Realms, the Pact, geography, etc.
+- [Speaking Like an Azergadling](lore/speaking-like-an-azergadling.md) — just a fun note on how people talk
 
-## A note on the chassis
+## A legal note
 
 Inazria is built on the D&D 5.1 System Reference Document. Material adapted from that document is used under the Creative Commons Attribution 4.0 International License. The setting's own races, classes, and lore are original to Inazria.
-
-A wise reader keeps one finger in the people and one in the rules — Azergad rewards both.

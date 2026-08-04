@@ -515,16 +515,20 @@ Immediately after using the third Paradox option, the target gains one level of 
 --- 
 
 ### Invoker Spell List
-The following table lists Invoker‑available spells in Inazria. R = ritual; C = concentration.
+The following table lists Invoker‑available spells in Inazria. R = ritual; C = concentration. Hallmark spells from your context count as Invoker spells for you and are always prepared. Where a spell already has a description under the Druid section above, use that text.
 
 | Level | Spell |
 |---|---|
 | Cantrips | Frostbite, Gust, Minor Illusion, Mold Earth, Prestidigitation, Ray of Frost, Shape Water, Shocking Grasp, Thaumaturgy |
-| 1st | Absorb Elements, Create or Destroy Water, Earth Tremor, Healing Word, Ice Knife, Shield, Thunderwave, Witch Bolt, Zephyr Strike |
-| 2nd | Calm Emotions, Gust of Wind (C), Hold Person, Mirror Image, Misty Step, Shatter, Snilloc’s Snowball Swarm, Warding Bond |
-| 3rd | Call Lightning (C), Erupting Earth, Sleet Storm (C), Tidal Wave, Water Breathing (R), Wind Wall (C) |
-| 4th | Control Water (C), Ice Storm, Storm Sphere (C), Stone Shape |
-| 5th | Cone of Cold, Dawn (C), Destructive Wave, Maelstrom (C), Wall of Stone |
+| 1st | Absorb Elements, Create or Destroy Water, Earth Tremor, Healing Word, Ice Knife, Rime Panoply, Shield, Thunderwave, Witch Bolt, Zephyr Strike |
+| 2nd | Calm Emotions, Enhance Ability (C), Gust of Wind (C), Hold Person (C), Mirror Image, Misty Step, Shatter, Silence (R, C), Snilloc’s Snowball Swarm, Warding Bond |
+| 3rd | Call Lightning (C), Daylight, Erupting Earth, Haste (C), Plant Growth, Sleet Storm (C), Slow (C), Tidal Wave, Water Breathing (R), Water Walk (R), Wind Wall (C) |
+| 4th | Control Water (C), Death Ward, Dimension Door, Freedom of Movement, Greater Invisibility (C), Ice Storm, Storm Sphere (C), Stone Shape |
+| 5th | Cone of Cold, Dawn (C), Destructive Wave, Maelstrom (C), Wall of Force (C), Wall of Stone (C) |
+| 6th | Chain Lightning, Freezing Sphere, Move Earth (C), Sunbeam (C), Wind Walk |
+| 7th | Fire Storm, Mirage Arcane (C), Reverse Gravity (C), Whirlwind (C) |
+| 8th | Control Weather (C), Earthquake (C), Sunburst, Tsunami (C) |
+| 9th | Foresight, Storm of Vengeance (C) |
 
 ## Spell Descriptions (Invoker)
 
@@ -794,4 +798,156 @@ You strike the ground, creating a burst of divine energy that ripples outward. E
 - Range: 120 feet
 - Components: V, S, M (a small block of granite)
 - Duration: Concentration, up to 10 minutes
-A nonmagical wall of solid stone springs into existence at a point you choose within range. The wall can be up to six 10‑foot‑by‑10‑foot panels, 6 inches thick. The wall is permanent if you maintain concentration for the full duration. Panels must be continuous and can merge with existing stone to buttress structures or seal passages. 
+A nonmagical wall of solid stone springs into existence at a point you choose within range. The wall can be up to six 10‑foot‑by‑10‑foot panels, 6 inches thick. The wall is permanent if you maintain concentration for the full duration. Panels must be continuous and can merge with existing stone to buttress structures or seal passages.
+
+#### Rime Panoply
+- 1st‑level abjuration
+- Casting Time: 1 action
+- Range: Self
+- Components: V, S
+- Duration: 1 hour
+Frost sheathes you in a thin, glittering mail. You gain 5 temporary hit points for the duration. If a creature hits you with a melee attack while you have these temporary hit points, the attacker takes 5 cold damage. When you cast this spell using a spell slot of 2nd level or higher, both the temporary hit points and the cold damage increase by 5 for each slot level above 1st.
+
+#### Enhance Ability
+- 2nd‑level transmutation
+- Casting Time: 1 action
+- Range: Touch
+- Components: V, S, M (fur or a feather from a beast)
+- Duration: Concentration, up to 1 hour
+You touch a creature and bestow a magical enhancement. Choose one: Bear's Endurance (advantage on Constitution checks; 2d6 temporary hit points for the duration), Bull's Strength (advantage on Strength checks), Cat's Grace (advantage on Dexterity checks; doesn't fall from less than 10 feet if not incapacitated), Eagle's Splendor (advantage on Charisma checks), Fox's Cunning (advantage on Intelligence checks), or Owl's Wisdom (advantage on Wisdom checks). When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
+
+#### Silence
+- 2nd‑level illusion (ritual)
+- Casting Time: 1 action
+- Range: 120 feet
+- Components: V, S
+- Duration: Concentration, up to 10 minutes
+For the duration, no sound can be created within or pass through a 20‑foot‑radius sphere centered on a point you choose within range. Any creature or object entirely inside the sphere is immune to thunder damage, and creatures are deafened while entirely inside it. Casting a spell that includes a verbal component is impossible there.
+
+#### Daylight
+- 3rd‑level evocation
+- Casting Time: 1 action
+- Range: 60 feet
+- Components: V, S
+- Duration: 1 hour
+A 60‑foot‑radius sphere of bright light (and dim light for an additional 60 feet) spreads from a point you choose within range. If you cast it on an object you are holding or that isn't being worn or carried, the light moves with the object. Completely covering the object with an opaque object blocks the light. If this spell's area overlaps an area of darkness created by a spell of 3rd level or lower, that darkness is dispelled.
+
+#### Haste
+- 3rd‑level transmutation
+- Casting Time: 1 action
+- Range: 30 feet
+- Components: V, S, M (a shaving of licorice root)
+- Duration: Concentration, up to 1 minute
+Choose a willing creature you can see within range. Until the spell ends, the target's speed is doubled, it gains a +2 bonus to AC, it has advantage on Dexterity saving throws, and it gains an additional action on each of its turns that can be used only to take the Attack (one weapon attack only), Dash, Disengage, Hide, or Use an Object action. When the spell ends, the target can't move or take actions until after its next turn, as a wave of lethargy washes over it.
+
+#### Slow
+- 3rd‑level transmutation
+- Casting Time: 1 action
+- Range: 120 feet
+- Components: V, S, M (a drop of molasses)
+- Duration: Concentration, up to 1 minute
+You alter time around up to six creatures of your choice in a 40‑foot cube within range. Each target must succeed on a Wisdom saving throw or be affected for the duration. An affected target's speed is halved, it takes a −2 penalty to AC and Dexterity saving throws, and it can't use reactions. On its turn, it can use either an action or a bonus action, not both. Regardless of the creature's abilities or magic items, it can't make more than one melee or ranged attack during its turn. If the creature attempts to cast a spell with a casting time of 1 action, roll a d20; on an 11 or higher, the spell doesn't take effect until the creature's next turn, and the creature must use its action on that turn to complete the spell. The creature must make another Wisdom saving throw at the end of each of its turns; on a success, the effect ends for it.
+
+#### Water Walk
+- 3rd‑level transmutation (ritual)
+- Casting Time: 1 action
+- Range: 30 feet
+- Components: V, S, M (a piece of cork)
+- Duration: 1 hour
+This spell grants the ability to move across any liquid surface—such as water, acid, mud, snow, quicksand, or lava—as if it were harmless solid ground (creatures still take damage from crossing lava). Up to ten willing creatures you can see within range gain this ability for the duration. If you target a creature submerged in a liquid, the spell carries the target to the surface of the liquid at a rate of 60 feet per round.
+
+#### Death Ward
+- 4th‑level abjuration
+- Casting Time: 1 action
+- Range: Touch
+- Components: V, S
+- Duration: 8 hours
+You touch a creature and grant it a measure of protection from death. The first time the target would drop to 0 hit points as a result of taking damage, the target instead drops to 1 hit point, and the spell ends. If the spell is still in effect when the target is subjected to an effect that would kill it instantaneously without dealing damage, that effect is instead negated against the target, and the spell ends.
+
+#### Dimension Door
+- 4th‑level conjuration
+- Casting Time: 1 action
+- Range: 500 feet
+- Components: V
+- Duration: Instantaneous
+You teleport yourself from your current location to any other spot within range. You arrive at exactly the spot desired. It can be a place you can see, one you can visualize, or one you can describe by stating distance and direction. You can bring along objects as long as their weight doesn't exceed what you can carry. You can also bring one willing creature of your size or smaller who is carrying gear up to its carrying capacity. The creature must be within 5 feet of you when you cast this spell. If you would arrive in a place already occupied by an object or a creature, you and any creature traveling with you each take 4d6 force damage, and the spell fails to teleport you.
+
+#### Freedom of Movement
+- 4th‑level abjuration
+- Casting Time: 1 action
+- Range: Touch
+- Components: V, S, M (a leather strap, bound around the arm or a similar appendage)
+- Duration: 1 hour
+You touch a willing creature. For the duration, the target's movement is unaffected by difficult terrain, and spells and other magical effects can neither reduce the target's speed nor cause the target to be paralyzed or restrained. The target can also spend 5 feet of movement to automatically escape from nonmagical restraints or being grappled. Being underwater imposes no penalties on the target's movement or attacks.
+
+#### Greater Invisibility
+- 4th‑level illusion
+- Casting Time: 1 action
+- Range: Touch
+- Components: V, S
+- Duration: Concentration, up to 1 minute
+You or a creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target's person. The spell ends for a target that attacks or casts a spell.
+
+#### Wall of Force
+- 5th‑level evocation
+- Casting Time: 1 action
+- Range: 120 feet
+- Components: V, S, M (a pinch of powder made by crushing a clear gemstone)
+- Duration: Concentration, up to 10 minutes
+An invisible wall of force springs into existence at a point you choose within range. The wall appears in any orientation you choose, as a hemispherical dome or a sphere with a radius of up to 10 feet, or as a flat surface composed of up to ten 10‑foot‑by‑10‑foot panels. The wall is immune to all damage and can't be dispelled by *dispel magic*; a *disintegrate* spell destroys it instantly. Nothing can physically pass through the wall; it extends into the Ethereal Plane, blocking ethereal travel through it.
+
+### 6th-Level
+
+#### Chain Lightning
+- 6th‑level evocation
+- Casting Time: 1 action
+- Range: 150 feet
+- Components: V, S, M (a bit of fur; a piece of amber, glass, or a crystal rod; and three silver pins)
+- Duration: Instantaneous
+You create a bolt of lightning that arcs toward a target you can see within range. Three bolts then leap from that target to as many as three other targets of your choice, each within 30 feet of the first target. A target can be a creature or an object and can be targeted by only one of the bolts. Each target must make a Dexterity saving throw, taking 10d8 lightning damage on a failed save, or half as much on a successful one. When you cast this spell using a spell slot of 7th level or higher, one additional bolt leaps from the first target to another target for each slot level above 6th.
+
+#### Freezing Sphere
+- 6th‑level evocation
+- Casting Time: 1 action
+- Range: 300 feet
+- Components: V, S, M (a small crystal sphere)
+- Duration: Instantaneous
+A frigid globe streaks to a point within range and explodes in a 60‑foot‑radius sphere. Each creature in the area must make a Constitution saving throw, taking 10d6 cold damage on a failed save, or half as much on a successful one. If the globe strikes a body of water, it freezes the liquid to a depth of 6 inches over a 30‑foot square for 1 minute; swimming creatures on that surface can be trapped (Strength check against your spell save DC as an action to break free). You can instead hold the globe for up to 1 minute and throw it (range 40 feet) or hurl it with a sling; it shatters on impact with the same effect. Damage increases by 1d6 for each slot level above 6th.
+
+#### Move Earth
+- 6th‑level transmutation
+- Casting Time: 1 action
+- Range: 120 feet
+- Components: V, S, M (an iron blade and a small bag containing a mixture of soils)
+- Duration: Concentration, up to 2 hours
+Choose an area of terrain no larger than 40 feet on a side within range. You can reshape dirt, sand, or clay in the area in any manner you choose for the duration (raise or lower elevation, create or fill a trench, erect or flatten a wall, or form a pillar). The maximum change in elevation is 20 feet for the entire area. The changes take 10 minutes to complete, so creatures usually can't be trapped or crushed. Rock and stone can't be affected. At the end of every 10 minutes you spend concentrating on the spell, you can choose a new area of terrain to affect.
+
+### 7th-Level
+
+#### Reverse Gravity
+- 7th‑level transmutation
+- Casting Time: 1 action
+- Range: 100 feet
+- Components: V, S, M (a lodestone and iron filings)
+- Duration: Concentration, up to 1 minute
+This spell reverses gravity in a 50‑foot‑radius, 100‑foot‑high cylinder centered on a point within range. All creatures and objects that aren't somehow anchored to the ground in the area fall upward and reach the top of the area when you cast this spell. A creature can make a Dexterity saving throw to grab onto a fixed object it can reach, thus avoiding the fall. If an object or surface stops the fall within the area (such as a ceiling), objects and creatures strike it just as they would during a normal downward fall. If no solid object or surface interrupts the fall, creatures and objects keep falling for the duration, and at the end of the duration fall downward again.
+
+### 8th-Level
+
+#### Control Weather
+- 8th‑level transmutation
+- Casting Time: 10 minutes
+- Range: Self (5‑mile radius)
+- Components: V, S, M (burning incense and bits of earth and wood mixed in water)
+- Duration: Concentration, up to 8 hours
+You take control of the weather within 5 miles of you for the duration. You must be outdoors to cast this spell. You can change precipitation, temperature, and wind by one stage every 1d4 × 10 minutes, moving through the stages of clear, light clouds / rain / snow, or heavy rain / storm toward the conditions you desire. When the spell ends, the weather gradually returns to normal.
+
+### 9th-Level
+
+#### Foresight
+- 9th‑level divination
+- Casting Time: 1 minute
+- Range: Touch
+- Components: V, S, M (a hummingbird feather)
+- Duration: 8 hours
+You touch a willing creature and bestow a limited ability to see into the immediate future. For the duration, the target can't be surprised and has advantage on attack rolls, ability checks, and saving throws. Other creatures have disadvantage on attack rolls against the target for the duration. The spell ends early if you cast it again.

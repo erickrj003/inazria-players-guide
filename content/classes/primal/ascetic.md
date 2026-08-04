@@ -1,8 +1,8 @@
 ## Ascetic — Path to Perfection
 
-In Inazria, Ascetics walk a disciplined path toward mortal perfectionism, pursuing ancient philosophical traditions tied to cultural or ethnic heritage. Through unwavering focus and precise execution, Ascetics maintain their Flow to produce extraordinary feats. One misstep can shatter their rhythm, forcing them back to square one. As with all classes in Inazria, your context supplies most of your identity and mechanics; the base class provides the core engine.
+In Inazria, Ascetics pursue mortal perfection through disciplined practice, each tradition tied to a cultural or philosophical inheritance older than any single Realm. Through unwavering focus and precise execution, they maintain their Flow and produce extraordinary feats. However, one misstep can shatter the rhythm, forcing them back to square one. As with all classes in Inazria, your context supplies most of your identity and mechanics; the base class provides the core engine.
 
-An Ascetic's training is inseparable from their tradition's temple: a cloistered community of fellow practitioners, bound by shared discipline as much as by shared technique. You train among other Ascetics of your context — Tammuzian acolytes in their fire-temples, Nityamar monks at the world's most hostile extremes, Khalsari brothers in their border cloisters — often for years before anyone considers you ready to walk the road alone. The Nehushtani alone keep no temple at all; their tradition passes from a single elder to a single apprentice, in secret, one lifetime at a time. A character may only ever choose one primal class and one Ascetic context, for life. Discuss the origin of your training with your GM; typically, you take this class at 1st level. You may multiclass freely into any civil class thereafter.
+An Ascetic's training is inseparable from their tradition's temple: a cloistered community of fellow practitioners, bound by shared discipline as much as by shared technique. You train among other Ascetics of your context — Tammuzian acolytes in their burning temples, Nityamar monks at the world's most hostile extremes, Khalseth brothers in their cloisters — often for years before anyone considers you ready to walk the road alone. The Nehushtani alone keep no temple at all; their tradition passes from a single elder to a single apprentice, in secret, one lifetime at a time. A character may only ever choose one primal class and one Ascetic context, for life. Discuss the origin of your training with your GM; typically, you take this class at 1st level. You may multiclass freely into any civil class thereafter.
 
 ### Hit Points
 - **Hit Dice**: 1d8 per ascetic level
@@ -26,9 +26,10 @@ You start with the following equipment, in addition to the equipment granted by 
 - **Ongoing Features and Concentration**. If a feature creates a lasting zone, form, or summoned ally, you concentrate on it as if concentrating on a spell, unless the feature says otherwise.
 - **Once on Each of Your Turns**. When a feature could trigger multiple times in a round (such as an aura or additional effect), it can do so no more than once on each of your turns unless the feature says otherwise.
 - **Limited Uses**. If a feature has a limited number of uses and doesn't specify a recharge, you can use it a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+- **Multiclassing**. You may take levels in as many civil classes and contexts as you wish, up to 20 total character levels. You may have only one primal class and one primal context, ever. Features from different classes stack unless they say otherwise, but overlapping resources do not replace one another: you must operate both systems independently.
 
 ### Core Class Features
-- **The Flowing Path (1st Level)**. You pursue perfection through precise execution. Your performance in combat is measured by your Flow, which ranges from -3 (Disrupted) to +3 (Flawless). You begin each day at 0 Flow.
+- **The Flowing Path (1st Level)**. You pursue perfection through precise execution. Your performance in combat is measured by your Flow, which ranges from -3 (Disrupted) to +3 (Flawless). You begin each day at 1 Flow.
   - **You gain 1 Flow boost when you:**
     - Score a critical hit with an attack roll
     - Cause an attack against you to miss (including attacks you impose disadvantage upon or cause to miss through abilities)
@@ -54,7 +55,7 @@ You start with the following equipment, in addition to the equipment granted by 
 - **Reactive Mastery (11th Level)**. Your instincts sharpen beyond ordinary reflex. You can take one additional reaction each round, for two reactions total. This additional reaction can only be used for Flow techniques or abilities granted by your context. A context's capstone feature is the only kind of feature that could ever grant you a further reaction beyond this one — none of the traditions below do, and no context stacks reactions to three or four per round.
 - **Flowing Deflection (11th Level)**. When you are hit by a ranged weapon attack, you can use your reaction to spend 1 Flow and deflect the projectile. The damage you take from the attack is reduced by 1d10 + your Dexterity modifier + your ascetic level. If you reduce the damage to 0, you can catch the projectile if you have a free hand.
 - **Transcendent Form (15th Level)**. You no longer age, you require no food or water, and you are immune to disease and poison. While you are Flawless (Flow at +3), you regain hit points equal to your Wisdom modifier at the start of each of your turns.
-- **Flow Mastery (20th Level)**. Your Dexterity and Wisdom scores each increase by 2. Your maximum for those scores increases to 22. Your maximum Flow increases to +4. When you reach +4 Flow, you gain all benefits of being Flawless, and your critical hit range increases to 18-20. At the start of your turn, if your Flow is 0 or lower, you gain 1 Flow boost.
+- **Flow Mastery (20th Level)**. Your Dexterity and Wisdom scores each increase by 2. Your maximum for those scores increases to 22. Your maximum Flow increases to +4. When you reach +4 Flow, you gain all benefits of being Flawless, and your critical hit range increases to 18-20. When you roll initiative, if your Flow is 0 or lower, you gain 1 Flow boost.
 
 ## Flawless State Benefits
 When your Flow is at +3 (or +4 at 20th level), you are Flawless. You gain the following benefits:
@@ -76,9 +77,11 @@ While Disrupted, you still retain your base combat capabilities (attack rolls, d
 
 ## Contexts
 
-### Acolytes of Tammuzia (tah-moo-ZEE-ah) — Sacred Flame and Divine Light
+### Acolytes of Tammuzia
 
-The Tammuzians believe perfection is achieved through the purifying sacred flame and divine illumination. Acolytes of Tammuzia see fire as both literal and metaphorical—it cleanses impurity, reveals truth, and represents the divine presence within. Combat becomes a devotional dance: each movement a prayer, each strike an offering. Tammuzian power is controlled, sacred, and restorative. They are wandering mystics, healers, and warriors of light who move like flickering flames across the battlefield. Tammuzian communities cluster wherever fire burns brightest — active volcanoes, sweltering arid deserts — and their acolytes are drawn overwhelmingly from the Dalvas, Orcs, Cahokari, Keldale, and Guphati: peoples who made their peace with heat long before they made peace with the flame.
+The Tammuzians hold that perfection is reached through purifying sacred flame and divine illumination. Fire, to them, is both literal and metaphorical: it cleanses impurity, breathes life, reveals truth, and stands for the divine presence within. Combat becomes a rather carefully measured devotion: each movement like a prayer, each strike like an offering. Yet Tammuzian power is controlled and restorative as often as it is fierce. They are wandering mystics, healers, and warriors of light who move like flickering flame across the field.
+
+Tammuzian communities cluster in places like active volcanoes and sweltering arid deserts, where fires burn their brightest. Their acolytes are drawn overwhelmingly from the Dalvas, Orcs, Cahokari, Keldale, and Guphati: peoples who made their peace with heat long before they made peace with the flame.
 
 **Philosophy**: Purity through sacred flame; devotion through motion; healing through divine light.
 
@@ -115,9 +118,11 @@ The Tammuzians believe perfection is achieved through the purifying sacred flame
 
 ---
 
-### Nityamar (nit-YAH-mar) Monks — Transcendence of Mortality
+### Nityamar
 
-The Nityamar believe that perfection and mortality are fundamentally opposed. To achieve the ideal, one must shed the weakness of mortality altogether: hunger, pain, gravity, even the need for physical form. Through rigorous discipline, Nityamar monks forge a connection to Kwata (KWAH-tah), a perfect plane of existence where suffering, limitation, and imperfection do not exist. They are ascetic warriors who need no weapons or armor; their bodies and wills alone are sufficient. Each breakthrough in their practice brings them closer to Kwata, allowing them to impose its perfection upon the material world. The Nityamar seek out the world's cruelest extremes on purpose — the ocean floor, the smoldering heart of the Marram, the crushing depths of the Veldt, the polar caps at the bottom of the world — because only there does mortal weakness announce itself loudly enough to be renounced. Elves, Kelanari, Humans, Palcha, and Dramkhani count among their most devoted.
+The Nityamar hold that perfection and mortality are fundamentally opposed. To approach the ideal, one must shed the weaknesses of mortal life: hunger, pain, gravity, and even the need for physical form. Through rigorous discipline, Nityamar monks forge a connection to Kwata (KWAH-tah), a perfect plane where suffering, limitation, and imperfection do not exist. They are elite warriors who need no weapons or armor, as their bodies and wills alone are sufficient. Each breakthrough in their practice brings them closer to Kwata, allowing them to impose its stillness upon the material world.
+
+The Nityamar seek out the world's cruelest extremes on purpose to dwell among: the ocean floor, the smoldering heart of the Marram, the crushing depths of the Veldt, or the polar caps at the bottom of the world are such examples. Only in those places does mortal weakness announce itself loudly enough to be renounced. Elves, Kelanari, Humans, Palcha, and Dramkhani count among their most devoted.
 
 **Philosophy**: Perfection through denial of mortal limitations; power through connection to Kwata; freedom through transcendence.
 
@@ -150,9 +155,9 @@ The Nityamar believe that perfection and mortality are fundamentally opposed. To
 
 **Stillness of Kwata (11th Level)**. When you take damage while Flowing (0+ Flow), you can use your reaction to enter a state of perfect stillness, reducing the damage by an amount equal to your Wisdom modifier + your ascetic level. If you reduce the damage to 0, you gain 1 Flow boost as you channel the attack's energy into your connection to Kwata.
 
-**Quivering Palm (13th Level)**. You learn to strike the boundary between life and death. When you hit a creature with an unarmed strike, you can spend 3 Flow to start imperceptible vibrations that last for a number of days equal to your ascetic level. The vibrations are harmless unless you use your action to end them. To do so, you and the target must be on the same plane of existence. When you use your action to end the vibrations, the target must make a Constitution saving throw (DC 8 + your proficiency bonus + your Wisdom modifier). On a failed save, it is reduced to 0 hit points. On a successful save, it takes 10d10 force damage. You can have only one creature under the effect of this feature at a time. You can choose to end the vibrations harmlessly without using an action.
-
 **Empty Body (17th Level)**. You can achieve near-total transcendence. As an action, you can spend 4 Flow to become invisible for 1 minute. During this time, you also have resistance to all damage except force damage. While invisible in this way, you can spend an additional Flow boost at the start of your turn to gain the benefits of Step Between Worlds until the start of your next turn without using your action.
+
+**Quivering Palm (17th Level)**. You learn to strike the boundary between life and death. When you hit a creature with an unarmed strike, you can spend 3 Flow to start imperceptible vibrations that last for a number of days equal to your ascetic level. The vibrations are harmless unless you use your action to end them. To do so, you and the target must be on the same plane of existence. When you use your action to end the vibrations, the target must make a Constitution saving throw (DC 8 + your proficiency bonus + your Wisdom modifier). On a failed save, it is reduced to 0 hit points. On a successful save, it takes 10d10 force damage. You can have only one creature under the effect of this feature at a time. You can choose to end the vibrations harmlessly without using an action.
 
 **Oneness with Kwata (18th Level)**. You exist partially in both worlds simultaneously. You gain the following permanent benefits:
 - Your unarmed strikes deal force damage instead of bludgeoning damage, representing your connection to Kwata's perfect essence
@@ -162,9 +167,9 @@ The Nityamar believe that perfection and mortality are fundamentally opposed. To
 
 ---
 
-### Nehushtani (neh-hoosh-TAH-nee) — The Adaptive Mirror
+### Nehushtani
 
-The Nehushtani believe that perfection cannot be found in a single form or philosophy, but in the ability to become anything required by the moment. They are combat analysts who study their enemies, steal their strengths, and turn their powers against them. Through careful observation and precise mimicry, Nehushtani ascetics learn to counter any threat, exploit any weakness, and adapt to any challenge. They are mirrors that reflect and counter their enemies, thieves who borrow power, and chameleons who become what the situation demands.
+The Nehushtani hold that perfection cannot be found in a single form or philosophy, but in the ability to become whatever the moment requires. They are combat analysts who study their enemies, steal their strengths, and turn those strengths back against them. Through careful observation and precise mimicry, a Nehushtani learns to counter a threat, exploit a weakness, and adapt mid-fight. They are mirrors that reflect and counter, thieves who borrow power, and chameleons who become the answer the situation demands.
 
 **Adaptation, Not Annihilation.** A Nehushtani doesn't burn magic out of the world the way a Varnic Knight's counter-glyphs do, and doesn't spin illusions of their own the way a Purple Mage does; they borrow, echo, and repurpose what already exists in front of them. Where a Varnic Knight ends a spell for good, a Nehushtani merely turns it, briefly, into something they can use themselves — and only after they've studied the caster closely enough to do so. A distinction that matters greatly to anyone trying to counter one.
 
@@ -196,7 +201,7 @@ The Nehushtani believe that perfection cannot be found in a single form or philo
 
 **Siphon Power (13th Level)**. You can temporarily rob enemies of their finest technique. As an action while Flowing (0+ Flow), you target one creature within 30 feet that you can see. It must make a Charisma saving throw (DC 8 + your proficiency bonus + your Wisdom modifier). On a failed save, choose one martial technique or innate, non-spell trait you have witnessed the creature use this combat — a fighter-style maneuver, a monstrous natural weapon, a breath weapon, or another innate trait that isn't a spell, spell slot, or legendary action. For the next 10 minutes, the creature cannot use that technique or trait, and you gain the ability to use it once, replicating its effects (using your own ability scores and proficiency bonus, and its original saving throw DC formula if it forces one). You can only have one siphoned ability at a time. Once you use this feature, you can't use it again until you finish a long rest.
 
-**Reactive Superiority (14th Level)**. Your analytical mind processes threats faster than others can react. You can take one additional reaction each round, for two reactions total when combined with Reactive Mastery. Additionally, when you use a reaction to successfully counter, mitigate, or avoid an attack or spell (such as causing an attack to miss, succeeding on a save, or using Reflected Power or Mirror the Working), you can move up to 15 feet without provoking opportunity attacks as part of that reaction.
+**Reactive Superiority (14th Level)**. Your analytical mind processes threats faster than others can react. When you use a reaction to successfully counter, mitigate, or avoid an attack or spell (such as causing an attack to miss, succeeding on a save, or using Reflected Power or Mirror the Working), you can move up to 15 feet without provoking opportunity attacks as part of that reaction, and you regain 1 Flow boost (once per round). You still have at most two reactions per round (from Reactive Mastery).
 
 **Master Thief (17th Level)**. Your power-stealing abilities improve dramatically. You can attempt Mirror the Working twice before needing a short or long rest, and its downgraded echoes are cast at only 1 level lower than the spell's original casting level (minimum 1st) instead of 2. Your Siphon Power can now copy two techniques or traits at once (from the same creature, or from two different creatures you've analyzed this combat), and you can use each siphoned ability twice before it returns to its source.
 
@@ -215,68 +220,122 @@ The Nehushtani believe that perfection cannot be found in a single form or philo
 
 ---
 
-### Khalsari (kahl-SAH-ree) — Brotherhood of the Bound Name
+### Khalseth
 
-The Khalsari hold that perfection is the perfect keeping of a single vow: the Bound Name, sworn once at initiation and renewed every dawn, together with the fivefold discipline that flows from it. They read the Bound Name as both covenant and code — half psalm, half statute — and they measure a life's worth by how faithfully its clauses are kept, not by how loudly its victories are sung. A Khalsari would rather talk a fight down than start one, but once a blade is drawn against the innocent, they hold the line without flinching and without cruelty. Where the Yargharu ride to punish the guilty after the fact, and the Pillars of Kalindor bind commerce to precedent, the Khalsari keep a narrower charge: the border road itself, and whoever walks it in good faith.
+The Khalseth (KHAL-seth) are an order of Ascetics founded in the 2nd Generation by one known only as the Exemplar. Uttering his true name is strictly forbidden. The Exemplar taught that speech is the natural extension of knowledge, and that knowledge of the divine is sacred and must be set apart. The Khalseth hold that the divine is perfection, and that a mortal may approach it by living as the Exemplar lived.
 
-Khalsari cloisters sit at the world's thresholds — remote outposts near the Concord's treaty-roads, the approaches to Khurz-Marn, the trade courts ringing Kalindor — guardians posted at the gate rather than scholars shelved in a library. A Khalsari brother has likely never set foot in Ostro's Great Library, and would eye with mild suspicion anyone who claims to know a border only from having read about it. Humans, Orcs, Dwarves, and Halflings are drawn to the discipline in roughly equal measure; border justice, it turns out, is nobody's exclusive inheritance.
+They realized early that all speech is knowledge, and thus sacred. If they are to speak, it must be only from dire necessity — or as an Extol, the divine speech the Exemplar discovered could be channeled to a Khalseth's will. Three laws bind the practice: **Silence** (utter no speech unless absolutely necessary), **Andaq** ( bind your life to protecting a person to whom you are indebted), and **Fidanza** (loyal attention — hear fully, answer rarely). Wind instruments (brass ones, in particular) pleased the Exemplar, as they communicate rich ideas through beutiful symphonic movements without speaking a single word. The Khalseth are famously fond of them.
 
-**Philosophy**: Righteousness through the perfect keeping of the Bound Name; strength through restraint offered before force; perfection through a fivefold discipline that never asks more of you than it asks of itself.
+Khalseth communicate in a writing form of their own making, full of words and concepts that must not (and at times, literally cannot) be spoken aloud. They also use a limited but surprisingly deep cant of gestures whose meaning depends on the martial Stance they hold. Fighting in a certain way is, for them, an expression in more ways than one. Outsiders generally do not understand any of it. Humans, Orcs, Dwarves, and Halflings enter the cloisters in roughly equal measure, though any man is welcome so long as they lay at the Exemplar's feet.
 
-**Flow Gain — Brotherhood's Vigil**. You gain 1 Flow boost when you:
-- Prevent an ally from dropping below half their hit points (such as by healing them, granting temporary hit points, or reducing damage they would take)
+Long ago the order schismed. Among the **Amaghai** of Bisengal and Zilwynbar (the original orders founded by the Exemplar himself), speech is taboo unless it is an Extol or some other stark necessity; they write very often. Several hundreds of years later, the **Rimayan** cloisters in the western Realms broadened what could be considered necessity, including things such as aid to the needy, last words to the dying, or judgment in a courtroom. The two branches fought several wars and battles over these differences. In very recent years, a third schism, called the **Jalanko** (jah-LAHN-koh), arose in a handful of places around Azergad. They teach just the opposite: all speech is sacred and should be shared, since everyone deserves to experience the Divine. Both older sects persecute them. Most towns conform to one view or another. When you choose this context, you must also choose the schism with which you belong to; it shapes what speech costs you, and how far your Extols can climb.
+
+**Philosophy**: Perfection through living as the Exemplar lived; Silence kept; Andaq held; Fidanza unbroken.
+
+**Flow Gain — Exemplar's Vigil**. You gain 1 Flow boost when you:
+- Prevent your Andaq from dropping below half their hit points (such as by healing them, granting temporary hit points, or reducing damage they would take), once per turn
+- Complete a declared Stance cadence (once per turn, or once per short rest if you are Jalanko)
 - Are the last conscious member of your party still standing in combat (once per combat)
-- Complete a declared cadence of your Fivefold Discipline (once per turn, even if more than one cadence completes)
+- Succeed on a Wisdom (Perception) or Wisdom (Insight) check in combat (once per turn)
+- (**Amaghai**) End your turn in combat having spoken only Extols or not at all (once per combat)
+- (**Rimayan**) End a hostile confrontation without a kill by using necessary speech (once per short rest)
+- (**Jalanko**) Succeed on a Charisma (Persuasion) check using your voice (once per turn)
 
-**Flow Spend — Guardian's Rites**. You learn additional ways to spend Flow unique to your tradition:
-- **Interpose** (1 Flow, reaction when an ally within 5 feet is hit by an attack). You place yourself between your ally and the attack. The attack targets you instead, and you gain resistance to the attack's damage.
-- **Bar the Way** (1 Flow, when you hit with a weapon attack). Name one creature within 30 feet as the one your target must not approach. The target can't willingly move within 5 feet of that creature until the start of your next turn.
+**Flow Spend — Quiet Rites**. You learn additional ways to spend Flow unique to your tradition:
+- **Interpose** (1 Flow, reaction when an ally within 5 feet is hit by an attack). You place yourself between your ally and the attack. The attack targets you instead, and you gain resistance to the attack's damage. While you are in Ward Stance, Interpose costs 0 Flow once per round when the ally is your Andaq.
+- **Bar the Path** (1 Flow, when you hit with a weapon attack). Your target can't willingly move within 5 feet of your Andaq until the start of your next turn.
 
-**Vow of the Bound (1st Level)**. You have sworn the Bound Name and hold to it before every stranger, judge, and blade. You gain the following benefits:
-- You can use Charisma instead of Wisdom for your Unarmored Defense calculation (AC = 10 + Dexterity modifier + Charisma modifier).
-- You gain proficiency in Persuasion and Insight. If you already have proficiency in either skill, you gain expertise in it instead.
-- When you make an attack roll against a creature that has not attacked, forced a saving throw upon, or dealt damage to you or an ally since this combat began, you lose 1 Flow boost (potentially becoming Disrupted) — the Bound Name forbids striking first at the innocent.
+**Way of the Exemplar (1st Level)**. You have sworn the Exemplar's three laws. You gain the following benefits:
+- You can use Charisma instead of Wisdom for your Unarmored Defense (AC = 10 + Dexterity modifier + Charisma modifier).
+- You gain proficiency in Persuasion, Insight, and Perception. If you already have proficiency in any of these skills, you gain expertise in that skill instead.
+- You gain proficiency with one wind instrument of your choice (such as a horn, trumpet, flute, etc.). Certain short musical phrases convey limited practical meaning among Khalseth, but others hear only music.
+- You can read and write Khalseth script and understand stance gestures. Creatures without Khalseth training cannot decipher either without magical aid or lengthy study.
+- **Silence**. You do not speak except to utter an Extol or for a purpose your schism treats as necessary (see Schisms below). If you speak without necessity, you incur one **Tongue Debt**. While you have any Tongue Debt, you cannot speak or utter Extols; gestures, writing, and brass remain allowed. Each Debt lasts 24 hours, stacking. At dawn, you may perform a 10-minute **Quiet Rite** to clear one Debt.
+- When you make an attack roll against a creature that has not attacked, forced a saving throw upon, or dealt damage to you, your Andaq, or an ally since this combat began, you lose 1 Flow boost (potentially becoming Disrupted) — violence, like speech, is spent only when necessary.
+- If your Andaq calls for aid within earshot and you ignore it, you lose 1 Flow boost.
+- **Schism**. Choose Amaghai, Rimayan, or Jalanko. This choice is permanent.
 
-**Mark of the Bound (1st Level)**. As a bonus action while Flowing (0+ Flow), you invoke the Bound Name against one creature you can see within 30 feet, marking it until the start of your next turn. While a creature is Marked by you:
+**Taking the Andaq (1st Level)**. As a bonus action, or over the course of 1 minute out of combat, you name one willing creature as your Andaq. You can have only one Andaq at a time. You can change your Andaq when you finish a long rest, or immediately if your Andaq dies. While you are Flowing (0+ Flow) and within 5 feet of your Andaq, that creature gains a +1 bonus to AC.
+
+**Quiet Mark (1st Level)**. As a bonus action while Flowing (0+ Flow), you accuse one creature you can see within 30 feet with a gesture, marking it until the start of your next turn. While a creature is Marked by you:
 - It has disadvantage on attack rolls against creatures other than you.
 - Allies have advantage on Wisdom (Insight) checks made against it.
 - When it hits you with an attack, you gain 1 Flow boost (once per turn).
 
 You can use this feature a number of times equal to your Charisma modifier (minimum 1), and you regain all expended uses when you finish a short or long rest.
 
-**Fivefold Discipline (3rd Level)**. Each dawn, you renew five vows: the Vow of the Name, the Vow of the Blade, the Vow of Service, the Vow of Purity, and the Vow of Witness. As a free action on your turn (once per turn), you can declare one vow's cadence — a recitation, a stance, or a deliberate restraint. If you complete that vow's condition before the start of your next turn, you gain 1 Flow boost (see Flow Gain — Brotherhood's Vigil):
-- **Name**: Declare by reciting the Bound Name aloud (no language component required). Complete by ending your turn within 5 feet of an ally.
-- **Blade**: Declare by resting your weapon's edge toward your Mark. Complete by hitting a creature Marked by you with a weapon attack.
-- **Service**: Declare by turning to face an endangered ally. Complete by using Interpose, or by otherwise preventing an ally from taking damage.
-- **Purity**: Declare by lowering your weapon. Complete by ending your turn without having attacked a creature that hasn't threatened you or an ally this combat.
-- **Witness**: Declare by marking what you see. Complete when an ally within 30 feet of you succeeds on a saving throw.
+**Exemplar Stances (3rd Level)**. As a bonus action, you enter one of the following Stances or switch to a different one. While in a Stance, its gesture vocabulary is available for communication, and you gain its combat benefit. As a free action on your turn (once per turn, or once per short rest if you are Jalanko), you can declare that Stance's cadence. If you complete the cadence's condition before the start of your next turn, you gain 1 Flow boost (see Exemplar's Vigil):
+- **Ward**: Declare by taking a guarding stance. Complete by ending your turn within 5 feet of your Andaq, or by using Interpose for them. Benefit: you gain a +1 bonus to AC.
+- **Measure**: Declare by studying the field. Complete when an ally within 30 feet succeeds on a saving throw, or when you succeed on a Wisdom (Insight) check against a foe. Benefit: you have advantage on Wisdom (Insight) checks, and if you studied a creature with a bonus action this turn, Quiet Mark against that creature does not expend a use.
+- **Fidanza**: Declare by turning your full attention outward. Complete when you or an ally within 30 feet succeeds on a Wisdom (Perception) check, or when you detect a hidden creature. Benefit: you add your Wisdom modifier to Wisdom (Perception) checks. Additionally, if you take the Ready action to protect your Andaq, you do not lose Flow for ending your turn without dealing damage.
 
-**Stay Your Hand (5th Level)**. As a reaction, when a creature you can see within 30 feet makes an attack roll or an ability check, you invoke the Bound Name to stay its hand: that roll is made with disadvantage. If the roll was an attack roll and it misses because of this disadvantage, and the attacker is within your reach, you can immediately make one melee weapon attack against it as part of the same reaction.
+**First Words (5th Level)**. You learn to utter Extols (see Extols below). You can use Word Extols while your Flow is 0 or higher, unless Disrupted, Debted, or silenced. You know all Word Extols listed below.
 
-**Brotherhood's Aura (6th Level)**. While you are Flowing, you radiate the Brotherhood's steadfastness. Choose one of the following benefits for allies within 10 feet of you; you can change your choice as a bonus action:
+**Presence of Silence (6th Level)**. While you are Flowing, you radiate composed quiet. Choose one of the following benefits for allies within 10 feet of you; you can change your choice as a bonus action:
 - Allies gain a +1 bonus to saving throws.
 - Allies gain a +1 bonus to AC.
 
 Additionally, when you are reduced to half your hit points or fewer, you gain temporary hit points equal to your Charisma modifier + your ascetic level. Once you gain these temporary hit points this way, you can't do so again until you finish a long rest.
 
-**Testament of the Blade (9th Level)**. Once per turn when you hit a creature Marked by your Mark of the Bound with a weapon attack, you deal extra radiant damage equal to your proficiency bonus, and that creature has disadvantage on the next saving throw it makes before the start of your next turn.
+**Phrase Extols (9th Level)**. If you are Amaghai or Rimayan, you can utter Phrase Extols while your Flow is 2 or higher. If you are Jalanko, you instead gain this benefit at 14th level, and each Phrase Extol costs 1 additional Flow.
 
-**Steadfast Line (11th Level)**. Your stance holds a border that isn't crossed twice. While you are Flowing, you can't be moved against your will or knocked prone by an effect created by a creature within 10 feet of you, and difficult terrain doesn't cost you extra movement. Additionally, once per long rest, when you use Interpose, you can protect two allies struck by the same attack instead of one.
+**Marked Thunder (9th Level)**. Once per turn when you hit a creature Marked by your Quiet Mark with a weapon attack, you deal extra thunder or radiant damage (your choice) equal to your proficiency bonus, and that creature has disadvantage on the next saving throw it makes before the start of your next turn.
 
-**Unbreakable Vow (13th Level)**. Your discipline steels your mind against every trial. You gain proficiency in all saving throws. Additionally, when you fail a saving throw while Flowing (0+ Flow), you can choose to succeed instead. Once you use this feature, you can't use it again until you finish a long rest.
+**Unmoved Measure (11th Level)**. While you are Flowing, you can't be moved against your will or knocked prone by an effect created by a creature within 10 feet of you, and difficult terrain doesn't cost you extra movement. Additionally, once per long rest, when you use Interpose, you can protect your Andaq and one other ally struck by the same attack.
 
-**Sentence of the Bound (14th Level)**. When you hit a creature that is hindered by one or more of your abilities (such as Mark of the Bound, Testament of the Blade, or Bar the Way), you can force a decisive reckoning. The creature must succeed on a Constitution saving throw (DC 8 + your proficiency bonus + your Charisma modifier) or be stunned until the end of your next turn and take extra radiant damage equal to your ascetic level. On a successful save, it takes half the extra damage and isn't stunned. Once you use this feature, you can't use it again until you finish a short or long rest.
+**Iron Quiet (13th Level)**. You gain proficiency in all saving throws. Additionally, when you fail a saving throw while Flowing (0+ Flow), you can choose to succeed instead. Once you use this feature, you can't use it again until you finish a long rest.
 
-**Guardian of the Gate (17th Level)**. Your vigilance covers more ground than one gate alone. You can Mark up to two creatures simultaneously with Mark of the Bound. Additionally, you can use Mark of the Bound as a reaction when a creature enters melee range of you or an ally within 30 feet, instead of only as a bonus action; when you do, you can Mark that creature or any other creature within 30 feet of you.
+**Sentence Extols (14th Level)**. If you are Amaghai, you can utter Sentence Extols while Flawless. If you are Rimayan, you gain this benefit at 17th level instead. Jalanko Khalseth never gain Sentence Extols.
 
-**The Unbending Line (18th Level)**. You have become the wall the Brotherhood swears by. You gain the following benefits:
+**Echo Mark (17th Level)**. You can Mark up to two creatures simultaneously with Quiet Mark. Additionally, you can use Quiet Mark as a reaction when a creature enters melee range of you or your Andaq within 30 feet, instead of only as a bonus action; when you do, you can Mark that creature or any other creature within 30 feet of you.
+
+**Voice of the Exemplar (18th Level)**. You have become what your schism swears by. You gain the following benefits:
 - Your Charisma score increases by 2, to a maximum of 22.
-- You can use Mark of the Bound without expending a limited use.
-- Your Brotherhood's Aura's range increases to 15 feet.
-- **Guardian's Intercession** (once per long rest): When an ally within 30 feet of you that you can see would be reduced to 0 hit points, you can use your reaction to teleport to an unoccupied space within 5 feet of that ally. The triggering attack or effect strikes you instead, and you gain resistance to that instance of damage.
+- You can use Quiet Mark without expending a limited use.
+- Your Presence of Silence range increases to 15 feet.
+- A schism climax:
+  - **Amaghai — Brilliant Extol** (once per long rest): While Flawless, you can utter a Brilliant Extol (see Extols).
+  - **Rimayan — Quiet Intercession** (once per long rest): When an ally within 30 feet of you that you can see would be reduced to 0 hit points, you can use your reaction to teleport to an unoccupied space within 5 feet of that ally. The triggering attack or effect strikes you instead, and you gain resistance to that instance of damage. This climax is silent; it is not an Extol.
+  - **Jalanko — Open Word** (once per long rest): As an action, you speak a short blessing allies can hear. Until the start of your next turn, each ally of your choice within 30 feet who heard you gains advantage on their next attack roll or saving throw. This is speech, not an Extol, and does not incur Tongue Debt.
+
+#### Schisms
+
+| Schism | Necessity (no Tongue Debt) | Extol access |
+|---|---|---|
+| **Amaghai** | Extols; speech to your Andaq in mortal peril; last words of the dying | Words 5 / Phrases 9 / Sentences 14 / Brilliant Extol 18 |
+| **Rimayan** | Amaghai necessities, plus aid to the needy, courtroom judgment, and speech that calms a fight without bloodshed | Words 5 / Phrases 9 / Sentences 17; no Brilliant Extol (Quiet Intercession at 18) |
+| **Jalanko** | Compassionate teaching, comfort, and honest counsel (boasts and gossip still Debt) | Words 5; Phrases 14 at +1 Flow; no Sentences or Brilliant Extol |
+
+#### Extols
+
+Extols are divine speech. To utter one, you must speak aloud (this breaks stealth as normal speech). An Extol uses your action unless it says otherwise. The save DC is 8 + your proficiency bonus + your Charisma modifier.
+
+**Flow gates.** You cannot utter Extols while Disrupted, while you have Tongue Debt, or while silenced by an external effect (you may still gesture). At Flow −3, your voice is sealed even if you are somehow not Debted. Word Extols require Flow 0+; Phrase Extols require Flow 2+ (and schism access); Sentence Extols require Flawless and schism access; Brilliant Extol requires Flawless, Amaghai schism, and 18th level.
+
+**Costs.** Word: 1 Flow. Phrase: 2 Flow (3 Flow if you are Jalanko). Sentence: 3 Flow. Brilliant: 3 Flow and its 1/long-rest use.
+
+**Word Extols (5th).** You know all of the following:
+- ***Hold*** (reaction). When a creature you can see within 30 feet makes an attack roll or ability check, that roll is made with disadvantage. If the roll was an attack roll, it misses because of this disadvantage, and the attacker is within your reach, you can make one melee weapon attack against it as part of the same reaction.
+- ***Hear Me***. You Quiet Mark one creature within 30 feet without expending a use of Quiet Mark.
+- ***Enough***. Each creature of your choice within 10 feet of you must make a Constitution saving throw. On a failed save, a creature takes 1d8 + your Charisma modifier thunder damage; on a success, half as much.
+- ***Still***. One creature within 30 feet must succeed on a Constitution saving throw or be deafened until the end of your next turn.
+
+**Phrase Extols (9th or 14th).** When you gain access, you know all of the following:
+- ***Turn to Me***. One creature within 30 feet must succeed on a Wisdom saving throw or have disadvantage on attack rolls against creatures other than you until the end of your next turn. If it makes an attack while affected, it must include you as a target if able.
+- ***Flee at Once***. One creature within 30 feet must succeed on a Wisdom saving throw or be frightened of you until the end of your next turn.
+- ***Cut the Tongue***. One creature within 30 feet must succeed on a Constitution saving throw or be unable to speak or cast spells with verbal components until the end of your next turn.
+- ***Stand With Me*** (1/short rest). Your Andaq and any number of allies of your choice within 10 feet of you gain temporary hit points equal to your Charisma modifier + your ascetic level.
+
+**Sentence Extols (14th or 17th; not Jalanko).** When you gain access, you know all of the following:
+- ***Confusion of Breath***. One creature within 30 feet must succeed on a Wisdom saving throw or, on its next turn, waste its action (it can still move) or attack a randomly determined creature within reach (GM's choice of which), until the end of that turn.
+- ***Speak Truth***. One creature within 30 feet must succeed on a Charisma saving throw or be unable to knowingly lie for 1 minute and must answer one question you ask as part of this Extol truthfully (to the best of its knowledge).
+- ***Kneel***. One creature Marked by your Quiet Mark must succeed on a Constitution saving throw or be stunned until the end of your next turn and take radiant or thunder damage (your choice) equal to your ascetic level. On a success, it takes half the damage and isn't stunned. Once you use *Kneel*, you can't use it again until you finish a short or long rest.
+- ***Symphony of Destruction*** (1/short rest). If you are holding a wind instrument and play it, each creature in a 15-foot cone must make a Constitution saving throw. On a failed save, a creature takes 4d8 + your Charisma modifier thunder damage; on a success, half as much.
+
+**Brilliant Extol (Amaghai 18th, 1/long rest, Flawless).** Choose one:
+- Each creature of your choice within 30 feet must succeed on a Wisdom saving throw or be frightened of you for 1 minute. While frightened this way, a creature must take the Dash action and move away from you by the safest available route on each of its turns unless there is nowhere to move. A creature can repeat the save at the end of each of its turns.
+- A 20-foot-radius sphere centered on a point you can see within 60 feet becomes magically silent for 1 minute (as the *silence* spell). You can still utter Extols while inside this silence.
+- Allies of your choice within 30 feet gain a +2 bonus to AC and temporary hit points equal to your Charisma modifier for 1 minute.
+- Each creature of your choice within 30 feet must make a Constitution saving throw. On a failed save, a creature takes 6d10 thunder damage; on a success, half as much.
 
 ---
-
-## Conclusion
-
-The Ascetic class offers four distinct paths to perfection, each reflecting different philosophical traditions and combat styles. Whether you choose to be a radiant healer dancing through combat, a transcendent warrior phasing between planes, an adaptive mirror reflecting all forms, or a bound guardian holding a border others cannot, your journey toward perfection will be defined by your Flow — the measure of how closely you approach the ideal with each action you take.
