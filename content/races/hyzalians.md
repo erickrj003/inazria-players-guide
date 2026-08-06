@@ -1,6 +1,6 @@
 ## Hyzalians
 
-The Hyzalians (hy-ZAH-lee-unz) are the elder people of the Marram — careful, wise, and cloistered across the unforgiving summits where the air thins and the snowcaps settle year-round. They value tradition and deep understanding, reciting the wisdom of the past before deciding on the future. To the wider Realms, they are an unusual and ominous bunch: a people without a Paragon, living above the Pact's roads, whose long memories outlast the politics of the modern day.
+The Hyzalians are the elder people of the Marram — careful, wise, and cloistered across the unforgiving summits where the air thins and the snowcaps settle year-round. They value tradition and deep understanding, reciting the wisdom of the past before deciding on the future. To the wider Realms, they are an unusual and ominous bunch: a people without a Paragon, living above the Pact's roads, whose long memories outlast the politics of the modern day.
 
 Ancient Hyzalian literature is of a distinctly religious nature. According to Inazrian mythology, they are said to be the original descendants of Tamid'Zelnah, the being which first unified men in mind and spirit. However, the Hyzalians were cursed: a perfect creation cast down to mortality and left to struggle for themselves. A handful of Hyzalians truly adhere to this ancient religion even in contemporary times, though their numbers are few and dwindling.
 

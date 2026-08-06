@@ -90,7 +90,7 @@ You are an arcane spellcaster whose magic flows from the authority your Progenit
 
 ### Rekupuledo
 
-It is said a colossal dragon-turtle sleeps beneath the world's floor, and that its dreams surface as rivers, tremors, and the deep whisper of duty. Those it calls first hear water speaking: through the flooded passages the Limnari (lim-NAH-ree) guard beneath Zilwynbar's lakes, through the caverns riddling the coast at Windfall, or through the understone caves that vein Kystriland's islands. Rekupuledo Invokers are supportive controllers: they slow enemies, fortify allies, and answer violence with patient, overwhelming water. His sign is the rainbow — peace after the storm. However, the water that answers a Rekupuledo Invoker's call is benign and conjured, not the crushing pressure a Bashani berserker commands; the two vocabularies rarely mix, and a Rekupuledo Invoker who tries to drown a foe outright will find the tide simply doesn't answer that way.
+It is said a colossal dragon-turtle sleeps beneath the world's floor, and that its dreams surface as rivers, tremors, and the deep whisper of duty. Those it calls first hear water speaking: through the flooded passages the Limnari guard beneath Zilwynbar's lakes, through the caverns riddling the coast at Windfall, or through the understone caves that vein Kystriland's islands. Rekupuledo Invokers are supportive controllers: they slow enemies, fortify allies, and answer violence with patient, overwhelming water. His sign is the rainbow — peace after the storm. However, the water that answers a Rekupuledo Invoker's call is benign and conjured, not the crushing pressure a Bashani berserker commands; the two vocabularies rarely mix, and a Rekupuledo Invoker who tries to drown a foe outright will find the tide simply doesn't answer that way.
 
 *A calling might be as quiet as "bring rain to a dying aquifer" or as urgent as "guard the underlake from what rises."*
 
@@ -151,7 +151,7 @@ A majestic, regal mammal whose song moves mountains, sets the seasons, and bless
 
 ### Xolturasus
 
-A nimble, cunning feline of winter, who conceived the very idea of cold; many first hear her call in dreams, and those she claims feel most attuned to her at night. Xolturasus calls from the world's edges — the Marram's summits, the tundras of the southeast and northeast, and the remote island of Andasena — and counts many Sythiaq (SITH-ee-ak) among her called. Xolturasus Invokers are arcane assassins who isolate targets, strip their defenses, and strike in the hush of a blizzard, cutting away reactions, movement, and speech before an enemy can respond. However, her gifts blunt sharply against a crowd; two isolated targets, standing together, are no longer isolated at all.
+A nimble, cunning feline of winter, who conceived the very idea of cold; many first hear her call in dreams, and those she claims feel most attuned to her at night. Xolturasus calls from the world's edges — the Marram's summits, the tundras of the southeast and northeast, and the remote island of Andasena — and counts many Sythiaq among her called. Xolturasus Invokers are arcane assassins who isolate targets, strip their defenses, and strike in the hush of a blizzard, cutting away reactions, movement, and speech before an enemy can respond. However, her gifts blunt sharply against a crowd; two isolated targets, standing together, are no longer isolated at all.
 
 *A calling might be as severe as "silence a false prophet on the summit" or as patient as "hunt what walks alone in the white."*
 
@@ -180,7 +180,7 @@ A nimble, cunning feline of winter, who conceived the very idea of cold; many fi
 
 ### Sammaelon
 
-A great, bird-like creature of thunder and lightning, free-spirited and clever, birthing storms wherever he roams; many feel his first call as a shock during intense emotion or strain, which Sammaelon Invokers call "the spark." Sammaelon claims free spirits from every corner of the world, without any single homeland to his name, and counts many Borshai (bor-SHY) among his called. Sammaelon Invokers are passionate, crafty, and highly mobile offensive casters who wield lightning, storms, speed, and illusion to outpace and overwhelm their foes. However, a storm that cannot move is only noise; ground a Sammaelon Invoker, stun them, root them, silence their thunder, and the spark gutters fast.
+A great, bird-like creature of thunder and lightning, free-spirited and clever, birthing storms wherever he roams; many feel his first call as a shock during intense emotion or strain, which Sammaelon Invokers call "the spark." Sammaelon claims free spirits from every corner of the world, without any single homeland to his name, and counts many Borshai among his called. Sammaelon Invokers are passionate, crafty, and highly mobile offensive casters who wield lightning, storms, speed, and illusion to outpace and overwhelm their foes. However, a storm that cannot move is only noise; ground a Sammaelon Invoker, stun them, root them, silence their thunder, and the spark gutters fast.
 
 *A calling might be as small as "carry a message on the gale" or as decisive as "break a siege with storm."*
 

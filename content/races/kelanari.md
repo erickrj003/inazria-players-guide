@@ -22,7 +22,7 @@ Their long lives - often reaching 250 years - grant the Kelanari patience and wi
 
 ### Kaduran
 
-The Kaduran (kah-DOO-rahn) make their homes in sea caves and tidal pools around the smaller Kystriland islands. Diplomatic and adventurous, Kaduran are the Kelanari most often seen on land living full lives amongst the other races. They are master craftspeople, creating intricate coral jewelry and sculptures that are highly prized by traders. Their settlements are semi-aquatic, with tide pools and channels that bring the sea directly into their homes. Generations of sun and salt have left them with warmer teal-to-copper skin than their deep-water cousins, hair worn shorter for work ashore, and eyes of green, amber, or sea-gray.
+The Kaduran make their homes in sea caves and tidal pools around the smaller Kystriland islands. Diplomatic and adventurous, Kaduran are the Kelanari most often seen on land living full lives amongst the other races. They are master craftspeople, creating intricate coral jewelry and sculptures that are highly prized by traders. Their settlements are semi-aquatic, with tide pools and channels that bring the sea directly into their homes. Generations of sun and salt have left them with warmer teal-to-copper skin than their deep-water cousins, hair worn shorter for work ashore, and eyes of green, amber, or sea-gray.
 
 - **Ability Score Increase**: +1 Charisma
 - **Language**: You can speak Kadurani, a mutually-intelligible dialect of Kelanari which incorporates many Kystri trade terms.
@@ -31,7 +31,7 @@ The Kaduran (kah-DOO-rahn) make their homes in sea caves and tidal pools around 
 
 ### Pelagoran
 
-The Pelagoran (peh-lah-GOR-ahn) live aboard great floating cities that drift with the currents of the Violet Sea. These wandering Kelanari are master navigators and known to guide their settlements away from areas they predict will be hit by storms. They are known for their epics, songs which are sung by entire communities in unison, that can be heard for miles across the water and sometimes used for communication and to guide lost travelers to safety.
+The Pelagoran live aboard great floating cities that drift with the currents of the Violet Sea. These wandering Kelanari are master navigators and known to guide their settlements away from areas they predict will be hit by storms. They are known for their epics, songs which are sung by entire communities in unison, that can be heard for miles across the water and sometimes used for communication and to guide lost travelers to safety.
 
 - **Ability Score Increase**: +1 Wisdom
 - **Language**: You can speak Pelagorani, a highly unique language relying on various tones and clicks. It is common for different Pelagoran groups to have many differences in their language. Due to the many sounds required, it is a difficult language for non-Kelanari to learn.
@@ -40,7 +40,7 @@ The Pelagoran (peh-lah-GOR-ahn) live aboard great floating cities that drift wit
 
 ### Khemazi
 
-The mysterious Khemazi (kheh-MAH-zee) dwell in the deepest parts of the Violet Sea, in cities built within underwater trenches and abyssal plains. These Kelanari have adapted to crushing depths and eternal darkness, developing enhanced senses and a more reserved, contemplative culture. Their trench-city of Zerakahm is raised upon ruins as old as Azergad itself: the drowned remains of the first Kelanari settlements, sunk into the deep in an upheaval that far predates the Great Pact and its records. The Khemazi keep the sealed vaults of those first cities, copying and guarding what was written before the deep submersion and safeguarding the rest of its contents forever. Even the Courts of Corrindan ask the Khemazi for answers rather than permission to look. They are sovereign scholars of the deep ocean's secrets and the sole heirs of its ancient knowledge.
+The mysterious Khemazi dwell in the deepest parts of the Violet Sea, in cities built within underwater trenches and abyssal plains. These Kelanari have adapted to crushing depths and eternal darkness, developing enhanced senses and a more reserved, contemplative culture. Their trench-city of Zerakahm is raised upon ruins as old as Azergad itself: the drowned remains of the first Kelanari settlements, sunk into the deep in an upheaval that far predates the Great Pact and its records. The Khemazi keep the sealed vaults of those first cities, copying and guarding what was written before the deep submersion and safeguarding the rest of its contents forever. Even the Courts of Corrindan ask the Khemazi for answers rather than permission to look. They are sovereign scholars of the deep ocean's secrets and the sole heirs of its ancient knowledge.
 
 - **Ability Score Increase**: +1 Intelligence
 - **Language**: You can speak Khemazi, the ancient language from which modern Kelanari derives. To outsiders, the language is poetic and formal.
@@ -50,7 +50,7 @@ The mysterious Khemazi (kheh-MAH-zee) dwell in the deepest parts of the Violet S
 
 ### Limnari
 
-Far from the Violet Sea, in the freshwater lakes and slow rivers scattered across Zilwynbar and northern Azelliot, live the Limnari (lim-NAH-ree): the curious case of a Kelanari people found outside the sea itself. The Limnari are highly distinct from their cousins in the Violet Sea. Their relaxed attitudes combined with their simple villages within ponds, lakes and streams (standing quiet against the grandeur of Violet Sea cities) cause other Kelanari to half-jokingly question their kinship altogether. They are fishers, potters, and painters who primarily trade lake-sourced goods with the neighboring Lendolo, Aaldegar and Wendric peoples. 
+Far from the Violet Sea, in the freshwater lakes and slow rivers scattered across Zilwynbar and northern Azelliot, live the Limnari: the curious case of a Kelanari people found outside the sea itself. The Limnari are highly distinct from their cousins in the Violet Sea. Their relaxed attitudes combined with their simple villages within ponds, lakes and streams (standing quiet against the grandeur of Violet Sea cities) cause other Kelanari to half-jokingly question their kinship altogether. They are fishers, potters, and painters who primarily trade lake-sourced goods with the neighboring Lendolo, Aaldegar and Wendric peoples. 
 
 Yet, beneath the easy surface runs an ancient, solemn duty. The lakes of the Limnari open downward into the sunless, treacherous waterways that vein the earth below Azelliot and Zilwynbar - the same hidden waters credited for the astonishing fertility of both lands. It's from down below that indescribable, horrible creatures are said to dwell, yet the surface world knows little of such things — and the Limnari keep it that way. The Limnari consider it their sacred duty to guard the surface world from such monstrous beasts. Limnari skin runs in soft olive, river-green, and silver-brown tones, brightest along the arms, and their eyes are warm amber, green, or brown; their hair is typically dark, worn loose in the water and bound with painted reeds and seaweed on land.
 

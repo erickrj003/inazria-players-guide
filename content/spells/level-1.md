@@ -259,7 +259,7 @@ You create three glowing darts of magical force. Each dart hits a creature of yo
 
 #### Ndaru's Rush of Speed
 
-*Ndaru (n-DAH-roo) ran the Vash for a living, which in the foothills means carrying word between settlements that the weather regularly cuts off from one another. The stories do not agree on how she died and do not seem troubled by it. What they agree on is the shape of her arrival, which was always sudden, always downhill, and always slightly ahead of the storm she was running to warn about.*
+*Ndaru ran the Vash for a living, which in the foothills means carrying word between settlements that the weather regularly cuts off from one another. The stories do not agree on how she died and do not seem troubled by it. What they agree on is the shape of her arrival, which was always sudden, always downhill, and always slightly ahead of the storm she was running to warn about.*
 
 - 1st-level transmutation
 - Casting Time: 1 bonus action
