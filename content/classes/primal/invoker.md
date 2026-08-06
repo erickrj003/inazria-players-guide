@@ -56,7 +56,7 @@ You start with the following equipment, in addition to the equipment granted by 
 | 20th | +6 | Apex of the Lineage | 4 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
 
 ### Spellcasting
-You are an arcane spellcaster whose magic flows from the authority your Progenitor has invested in you. Spell lists and descriptions live in [Spells](../../spells.md).
+You are an arcane spellcaster whose magic flows from the authority your Progenitor has invested in you. Spell lists and descriptions live in [Spells](../../spells/index.md).
 - **Spell List**: You prepare spells from the Invoker list. Your context's Hallmark Spells count as Invoker spells for you and are always prepared (they don't count against the number of spells you prepare).
 - **Cantrips**: You know two cantrips from the Invoker spell list at 1st level. You learn additional cantrips at higher levels as shown on the Invoker table.
 - **Preparing and Casting Spells**: You prepare a number of Invoker spells equal to your Charisma modifier + your invoker level (minimum of one), choosing from the Invoker list. You can cast any invoker spell you have prepared, using spell slots as shown on the Invoker table. You can change your prepared spells when you finish a long rest.
@@ -97,18 +97,18 @@ It is said a colossal dragon-turtle sleeps beneath the world's floor, and that i
 - **Proficiencies** You gain proficiency with the trident, maul and hand crossbow.
 
 - **Hallmark Spells** Your bloodline adds these to your known options as you gain levels (they count as Invoker spells for you):
-  - 1st: create or destroy water, thunderwave, shape water (bonus cantrip; does not count against your cantrips known)
+  - 1st: create or destroy water, thunderwave, extract humidity (bonus cantrip; does not count against your cantrips known)
   - 2nd: warding bond, calm emotions
-  - 3rd: tidal wave, water breathing
+  - 3rd: blast of kerangala, water breathing
   - 4th: control water, water walk
-  - 5th: maelstrom, daylight
+  - 5th: whirlpool to zerakahm, daylight
 - **1st Level — Calling Rain**. Once per long rest, as an action, you call a sudden rain from clear skies, or swell a nearby trickle into a proper flow: a 10-foot-radius area you can see within 60 feet fills with shallow standing water for 1 minute. This water counts as standing water for your other features, even far from any lake, river, or coast — useful when your Progenitor's gifts must work on dry stone or open sand.
 - **1st Level — Resonant Tides (Moonpull)**. When you cast an invoker spell, you can spend Resonance to apply one of the following as your Resonance spend for that cast (replacing a base spend):
   - Tidal Recall (1): Choose one creature you can see within 30 feet of water you created (from a spell, your Calling Rain, or your Imprint). If it is willing, you can move it up to 15 feet through that water without provoking opportunity attacks. If it is unwilling, it must succeed on a Strength saving throw or you move it up to 10 feet instead; a Huge or larger creature has advantage on the save. A creature can't be affected by your Tidal Recall more than once per turn.
   - Tidewall (1): One target of the spell gains temporary hit points equal to your proficiency bonus + your Charisma modifier and resistance to lightning, thunder, or cold (your choice) until the start of your next turn.
   - Slick Current (1): Create a 10-foot line or a 10-foot square of shallow water originating at a target of the spell. The area is difficult terrain for enemies until the start of your next turn. The first time each round an enemy enters the area or starts its turn there, it must succeed on a Dexterity saving throw against your spell save DC or fall prone.
   - Rainbow Aegis (2): Create a 10-foot-radius aura centered on a point you can see within 30 feet that lasts until the start of your next turn. Allies in the aura gain +1 AC and advantage on saving throws against being frightened.
-  When you spend Resonance on any option above, you can move up to one 5-foot cube of water you can see within 30 feet up to 15 feet as a bonus action (this uses the effects of shape water); if you have an Imprint active, you can instead move its point of origin by the same amount. Water moved this way persists for 1 minute.
+  When you spend Resonance on any option above, you can use a bonus action to move up to one 5-foot cube of water you can see within 30 feet up to 15 feet, as *extract humidity*. If you have an Imprint active, you can instead move its point of origin by the same amount. Water moved this way persists for 1 minute.
 - **2nd Level — Violet Shield**. If you cast a spell on your turn, you can use your reaction before the start of your next turn to reduce damage dealt to an ally within 30 feet by your proficiency bonus. You can instead spend 1 Resonance when you use this reaction to reduce the damage by your proficiency bonus + your Charisma modifier and move that ally up to 10 feet without provoking opportunity attacks.
 - **3rd Level — Tidemark**. Your Imprint takes the form of Tidemark: shallow, moon-bright water that remembers the tide even far from any sea. While your Imprint is active, you and your allies treat it as shallow water for your features that require it (such as Tidal Recall), and enemies treat it as difficult terrain.
   - Imprint rider: When you use Imprint Shift on your Tidemark, the next hostile creature that enters or starts its turn there before the end of your next turn must succeed on a Strength saving throw or be pulled 5 feet toward its center.
@@ -128,11 +128,11 @@ A majestic, regal mammal whose song moves mountains, sets the seasons, and bless
 - **Proficiencies** You gain proficiency with the warhammer, greatsword and heavy crossbow.
 
 - **Hallmark Spells** Your bloodline adds these to your known options as you gain levels (they count as Invoker spells for you):
-  - 1st: earth tremor, healing word
+  - 1st: karatagh shudder, healing word
   - 2nd: shatter, enhance ability
-  - 3rd: erupting earth, plant growth
+  - 3rd: dramtal upheaval, plant growth
   - 4th: stone shape, death ward
-  - 5th: wall of stone, dawn
+  - 5th: wall of stone, light of suryakal
 - **1st Level — Sunbrand**. Once on each of your turns when you hit with a weapon attack, that attack deals an extra 1d8 fire or radiant damage (your choice); this doesn't require Resonance. This extra damage increases to 2d8 at 11th level. If you spend 1 Resonance when you make this attack, you can also push the target up to 5 feet, or deal the extra damage as both fire and radiant instead of choosing one.
 - **1st Level — Canticle of Summer**. When you cast an invoker spell, you can spend Resonance to apply one of the following as your Resonance spend for that cast (replacing a base spend):
   - Summer Guard (1): Until the start of your next turn, you gain +1 AC and temporary hit points equal to your proficiency bonus.
@@ -158,7 +158,7 @@ A nimble, cunning feline of winter, who conceived the very idea of cold; many fi
 - **Proficiencies** You gain proficiency with the rapier, dagger and longbow.
 
 - **Hallmark Spells** Your bloodline adds these to your known options as you gain levels (they count as Invoker spells for you):
-  - 1st: ice knife, rime panoply
+  - 1st: shard of senakutu, rime panoply
   - 2nd: hold person, silence
   - 3rd: sleet storm, slow
   - 4th: greater invisibility, ice storm
@@ -187,11 +187,11 @@ A great, bird-like creature of thunder and lightning, free-spirited and clever, 
 - **Proficiencies** You gain proficiency with the longsword, halberd and heavy crossbow.
 
 - **Hallmark Spells** Your bloodline adds these to your known options as you gain levels (they count as Invoker spells for you):
-  - 1st: zephyr strike, witch bolt
+  - 1st: ndaru's rush of speed, twin spark
   - 2nd: gust of wind, mirror image
   - 3rd: call lightning, haste
-  - 4th: storm sphere, freedom of movement
-  - 5th: destructive wave (lightning/thunder), dimension door
+  - 4th: senatari sphere of storm, freedom of movement
+  - 5th: pelagoran thunderclap, dimension door
 - **1st Level — Resonant Tempest**. When you cast an invoker spell, you can spend Resonance to apply one of the following as your Resonance spend for that cast (replacing a base spend):
   - Flash (1): Teleport up to 5 feet to a space you can see. If you dealt lightning or thunder damage with the spell, you can instead teleport up to 15 feet.
   - Booming Step (1): Push a creature affected by the spell up to 10 feet. If it collides with a creature or object, it takes extra damage equal to your Charisma modifier (lightning or thunder, your choice).

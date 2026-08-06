@@ -14,11 +14,11 @@ This game is an actively updated WIP. The game is built on the core D&D 5.1e rul
 
 - [Classes](classes/overview.md) — primal and civil callings, and the contexts that refine them
 - [Races](races/humans.md) — the peoples of Azergad. Inazria itself is primarily home to the Humans.
-- [Spells](spells.md) — spell lists and descriptions used by the setting's casters
+- [Spells](spells/index.md) — spell lists and descriptions used by the setting's casters
 - [Summons and Companions](rules/summons-and-companions.md) — shared rules for summoned creatures and fighting companions
 - [Lore](lore/lore.md) — the Realms, the Pact, geography, etc.
 - [Speaking Like an Azergadling](lore/speaking-like-an-azergadling.md) — just a fun note on how people talk
 
 ## A legal note
 
-Inazria is built on the D&D 5.1 System Reference Document. Material adapted from that document is used under the Creative Commons Attribution 4.0 International License. The setting's own races, classes, and lore are original to Inazria.
+Inazria is built on the D&D 5.1 System Reference Document. Material adapted from that document is used under the Creative Commons Attribution 4.0 International License. The setting's own races, classes, and lore are original to Inazria. Full attribution is on the [Legal](legal.md) page.

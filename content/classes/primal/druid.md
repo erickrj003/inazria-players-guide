@@ -25,13 +25,41 @@ You start with the following equipment, in addition to the equipment granted by 
 - Leather armor, an explorer's pack, and a druid focus (crystal, staff, or natural item)
 
 ### Spellcasting
+You are a primal spellcaster whose magic comes from the living world. Spell lists and descriptions live in [Spells](../../spells/index.md).
 - The Druid table shows how many spell slots you have to cast your druid spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
-- You know druid spells based on your level and your chosen context. Each context provides its own spell list and progression.
+- You know druid spells drawn from the Druid list. Every Druid context draws from this same list. Contexts differ in how many cantrips and spells they know, never in which spells they can reach.
 - Wisdom is your spellcasting ability for druid spells.
   - **Spell save DC** = 8 + your proficiency bonus + your Wisdom modifier
   - **Spell attack modifier** = your proficiency bonus + your Wisdom modifier
 - You can cast any druid spell you know as a ritual if that spell has the ritual tag.
 - You can use a druid focus as a spellcasting focus for your druid spells.
+
+### The Druid
+
+Cantrips known and spells known are set by your context; see the Spell Progression listed under each one.
+
+| Level | Proficiency Bonus | Features | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1st | +2 | Druidic, Natural Affinity, Spellcasting, Context | 2 | — | — | — | — | — | — | — | — |
+| 2nd | +2 | Wild Empathy | 3 | — | — | — | — | — | — | — | — |
+| 3rd | +2 | Context feature | 4 | 2 | — | — | — | — | — | — | — |
+| 4th | +2 | Ability Score Improvement | 4 | 3 | — | — | — | — | — | — | — |
+| 5th | +3 | Context feature | 4 | 3 | 2 | — | — | — | — | — | — |
+| 6th | +3 | Natural Recovery | 4 | 3 | 3 | — | — | — | — | — | — |
+| 7th | +3 | Context feature | 4 | 3 | 3 | 1 | — | — | — | — | — |
+| 8th | +3 | Ability Score Improvement | 4 | 3 | 3 | 2 | — | — | — | — | — |
+| 9th | +4 | Context feature | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
+| 10th | +4 | Context feature | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
+| 11th | +4 | Context feature | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 12th | +4 | Ability Score Improvement | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 13th | +5 | Context feature | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 14th | +5 | Context feature | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 15th | +5 | Context feature | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 16th | +5 | Ability Score Improvement | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 17th | +6 | Context feature | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 18th | +6 | Timeless Body, Context feature | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
+| 19th | +6 | Ability Score Improvement | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+| 20th | +6 | Archdruid | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
 
 ### Class Rules
 - **Ongoing Features and Concentration**. If a feature creates a lasting zone, form, or summoned ally, you concentrate on it as if concentrating on a spell, unless the feature says otherwise. Your concentration ends as normal, and the feature ends when your concentration ends.
@@ -203,7 +231,7 @@ Same statistical adjustments as Animal Allies. Elite Animals are CR 1.
 
 ### Astralist
 
-Astralists study celestial movement and temporal currents, wielding magic that manipulates space, time, and light itself. Many trace their awakening to a single night, where the Astralist hears from the stars themselves in a dream. The academies of the Sarukhwin plateau, the aurora-lit dark above the Sythiaq tundra, and the remote horizon of Andasena draw such nights with particular frequency. 
+Astralists are called by the stars, following celestial movement and temporal currents to wield magic over space and time. Their real trade is access rather than force: reaching a place that has no road to it, learning a thing nobody alive remembers, and handing an ally back a moment they had already spent. Most trace their awakening to a single night in which the stars speak to them in a dream. Such nights come most often on the high plateau of western Avarazhan, a thin-aired country thought to hold properties of its own, where the Sarukhwin built their academies to argue about the stars and have been arguing ever since. The aurora-lit dark above the Sythiaq tundra and the remote horizon of Andasena draw such nights as well, though rather less reliably. Yet a called Astralist seldom receives an explanation along with the calling. The stars are said to be generous with moments and stingy with reasons.
 
 #### Spell Progression
 - **Cantrips Known**: 2 at 1st level; +1 at 4th and 10th levels

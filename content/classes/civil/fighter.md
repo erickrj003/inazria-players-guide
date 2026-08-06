@@ -1,6 +1,6 @@
-# Fighter — Master of Arms
+## Fighter
 
-In Inazria, Fighters are professionals of combat. They are the soldiers, knights and warriors of Azergad who earned their edge through years of training and experience. Fighters assemble their capabilities piece by piece through a variety of weapons, armors, fighting styles and techniques. Your Fighter demonstrates great talent in the martial arts. You may attempt any technique on the Fighter list, but only techniques you have invested in perform reliably. As with all classes in Inazria, your context supplies some of your identity and mechanics; the base class provides the core engine.
+In Inazria, Fighters are professionals of combat: soldiers, knights, and veterans who earned their edge through years of training on the battlefield. Fighters assemble their capabilities piece by piece through a variety of weapons, armors, fighting styles and techniques. As with all classes in Inazria, your context supplies some of your identity and mechanics; the base class provides the core engine.
 
 ### Hit Points
 - **Hit Dice**: 1d10 per fighter level
@@ -25,7 +25,8 @@ You start with the following equipment, in addition to the equipment granted by 
 - **Ongoing Features and Concentration**. If a feature creates a lasting zone, form, or summoned ally, you concentrate on it as if concentrating on a spell, unless the feature says otherwise.
 - **Once on Each of Your Turns**. When a feature could trigger multiple times in a round (such as an aura or additional effect), it can do so no more than once on each of your turns unless the feature says otherwise.
 - **Limited Uses**. If a feature has a limited number of uses and doesn't specify a recharge, you can use it a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
-- **Multiclassing**. You may take levels in as many civil classes and contexts as you wish, up to 20 total character levels. You may have only one primal class and one primal context, ever. Features from different classes stack unless they say otherwise, but overlapping resources do not replace one another: you must operate both systems independently.
+- **Multiclassing**. You may take levels in as many civil classes and contexts as you wish, up to 20 total character levels. You may have only one primal class and one primal context, ever. Features from different classes stack unless they say otherwise, but overlapping resources do not replace one another: you must operate both systems independently. Technique points, weapon groups from Weapon Group Mastery, and uses of Indomitable scale with your fighter levels only. If more than one feature would grant you Extra Attack, you use only the one that grants the greatest number of attacks.
+- **Mastery Damage**. Extra damage from Weapon Group Mastery and from features that say they share this budget (such as a Tarvanin's Skirmisher's Step) is limited to one application per turn among those sources.
 
 ### Core Class Features
 - **Martial Proficiency (1st Level)**. Your training covers the full spectrum of arms and armor. You ignore the Strength requirement of armor you are proficient with. When you attack with a weapon you are proficient with, you can use Strength or Dexterity for the attack and damage rolls (your choice for each attack).
@@ -52,19 +53,20 @@ You start with the following equipment, in addition to the equipment granted by 
     - If the technique normally grants advantage or imposes disadvantage, that part of the technique fails.
   - **Once per Turn**. Unless a technique's Mastered benefit says otherwise, you can use each technique at most once per turn.
   - **Context Techniques**. Techniques granted by your context are added to your available list and follow the same rank rules.
-- **Weapon Group Mastery (2nd Level)**. Choose two weapon groups: axes, blades, bludgeons, bows, crossbows, polearms, or thrown weapons. When you hit with a weapon attack using a weapon from a mastered group, you deal extra damage equal to your proficiency bonus. You can deal this extra damage only once per turn.
+- **Weapon Group Mastery (2nd Level)**. Choose two weapon groups: axes, blades, bludgeons, bows, crossbows, polearms, or thrown weapons. When you hit with a weapon attack using a weapon from a mastered group, you deal extra damage equal to your proficiency bonus. This extra damage uses the Mastery Damage budget (once per turn among sharing sources).
   - At 6th level, choose a third weapon group. At 13th level, choose a fourth.
 - **Veteran's Focus (2nd Level)**. When you finish a short rest, you regain 1 expended Exertion (in addition to the Exertion you normally regain).
 - **Tactical Assessment (3rd Level)**. As a bonus action, you study one creature you can see within 30 feet. Until the end of your next turn, you have advantage on attack rolls against that creature, and the first time you hit it with a weapon attack on your turn, you deal extra damage equal to your proficiency bonus. You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 - **Ability Score Improvement (4th, 8th, 12th, 16th, 19th Levels)**. Increase one ability score by 2, or two ability scores by 1 (to a maximum of 20).
 - **Extra Attack (5th Level)**. When you take the Attack action on your turn, you can attack twice instead of once.
-- **Battle Hardened (7th Level)**. You have advantage on saving throws against being frightened. When you fail a saving throw, you can reroll it and must use the new roll. Once you use this reroll, you can't use it again until you finish a long rest.
+- **Battle Hardened (7th Level)**. You have advantage on saving throws against being frightened.
 - **Indomitable (9th Level)**. When you fail a saving throw, you can reroll it with a bonus equal to your fighter level (maximum +10). You must use the new roll. You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
-- **Relentless (11th Level)**. When you use Action Surge, you can immediately move up to half your speed without provoking opportunity attacks. When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. Once you use this feature to cheat death, you can't use it again until you finish a long rest.
-- **Improved Weapon Mastery (13th Level)**. Your weapon group mastery extra damage increases to twice your proficiency bonus, but you can still deal it only once per turn.
-- **Extra Attack (2) (15th Level)**. When you take the Attack action on your turn, you can attack three times instead of twice.
-- **Warrior's Reflexes (17th Level)**. You can take a reaction on every turn in combat, instead of only once per round. This reaction can be used for opportunity attacks, techniques, or context features that require a reaction. You can use Action Surge twice before finishing a short or long rest, but only once on the same turn.
-- **Martial Legend (20th Level)**. Choose one ability score from Strength, Dexterity, or Constitution. That score increases by 2, to a maximum of 22. You gain 4 technique points to invest immediately. When you roll initiative, if you have 0 Exertion remaining, you gain 1 Exertion.
+- **Extra Attack 2 (11th Level)**. When you take the Attack action on your turn, you can attack three times instead of twice. You never gain a fourth attack from Extra Attack — that peak belongs to no civil class.
+- **Relentless (11th Level)**. When you use Action Surge, you can immediately move up to half your speed without provoking opportunity attacks.
+- **Improved Weapon Mastery (13th Level)**. Your weapon group mastery extra damage increases to twice your proficiency bonus, but it still uses the Mastery Damage budget (once per turn among sharing sources).
+- **Diehard (15th Level)**. When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. Once you use this feature, you can't use it again until you finish a long rest.
+- **Warrior's Reflexes (17th Level)**. You can take one additional reaction each round, for two reactions total. These reactions can be used for opportunity attacks, techniques, or context features that require a reaction. You can use Action Surge twice before finishing a short or long rest, but only once on the same turn.
+- **Martial Legend (20th Level)**. Choose one ability score from Strength, Dexterity, or Constitution. That score increases by 2, to a maximum of 22. You gain 4 technique points to invest immediately. When you roll initiative, if you have 0 Exertion remaining, you gain 1 Exertion. 
 
 ## Fighting Styles
 
@@ -181,16 +183,14 @@ Each Fighter context adds techniques to your repertoire (see Fighter Techniques)
 
 ### Champion
 
-The Champion is the quintessential, if not exaggerated, classic fighter. They are the standard by which frontline tanks and strikers are measured across Azergad. Champions are the generals of great armies, the personal bodyguards of kings, and the literal champions of the arena. Champions who have proven their worth are highly regarded in many of the Realm's cultures. A Champion can work alone, relying on personal strength rather than supporting allies.
-
-**Typical kit.** Champions favor **Great Weapon Fighting**, **Defense**, or **Dueling**; invest in **Heavy Blow**, **Precision Strike**, **Charge**, **Stand Firm**, and **Mark Foe** from the general catalog; and rely on Champion techniques for self-sustain and battlefield control.
+Champions are Azergad's mightiest warriors. With their great strength, Champions wield heavy armor and crushing weapons to outmatch any foe. These masters of combat utilize their skills as professional security forces, army generals or elite strike squads. A proven Champion is universally recognized and held in high regard. 
 
 **Champion's Breadth**. You gain additional **technique points** as you advance: +1 at 1st fighter level, +1 at 7th level, and +2 at 14th level (in addition to the technique points you gain from the Fighter class).
 
 - **Champion's Breadth (1st Level)**. You gain 1 additional technique point.
-- **Arena Trained (1st Level)**. While you are wearing heavy armor and wielding a melee weapon with the two-handed or versatile property, once per turn when you hit a creature with a weapon attack, you add your Strength modifier to the damage roll again.
+- **Trained for Battle (1st Level)**. While you are wearing heavy armor and wielding a melee weapon with the two-handed or versatile property, once per turn when you hit a creature with a weapon attack, you add half your Strength modifier (rounded up, minimum 1) to the damage roll again.
 - **Press the Advantage (2nd Level)**. When you reduce a hostile creature to 0 hit points with a melee weapon attack, you can move up to half your speed without provoking opportunity attacks.
-- **Brutal Finish (3rd Level)**. You learn the **Brutal Finish** Champion technique at Familiar rank without spending technique points. You may still invest technique points to advance it to Practiced or Mastered.
+- **Improved Critical (3rd Level)**. Your weapon attacks score a critical hit on a roll of 19 or 20. You also learn the **Brutal Finish** Champion technique at Familiar rank without spending technique points. You may still invest technique points to advance it to Practiced or Mastered.
 - **Unyielding Frame (5th Level)**. While you are wearing heavy armor, you have advantage on saving throws against being moved or knocked prone. When you use **Second Wind**, you also end the frightened condition on yourself.
 - **Relentless Champion (6th Level)**. When you use **Second Wind**, you can immediately move up to 10 feet without provoking opportunity attacks.
 - **Champion's Breadth (7th Level)**. You gain 1 additional technique point.
@@ -199,11 +199,13 @@ The Champion is the quintessential, if not exaggerated, classic fighter. They ar
 - **Hold the Line (11th Level)**. Hostile creatures within 5 feet of you have disadvantage on attack rolls against creatures other than you unless you are incapacitated.
 - **Champion's Breadth (14th Level)**. You gain 2 additional technique points.
 - **Surging Action (14th Level)**. When you use **Action Surge**, you can make one weapon attack before or after the additional action granted by Action Surge.
+- **Superior Critical (15th Level)**. Your weapon attacks score a critical hit on a roll of 18–20.
 - **Ironbound (17th Level)**. While you are wearing heavy armor, you have resistance to bludgeoning, piercing, and slashing damage from weapon attacks.
-- **Ascendant Mastery (18th Level)**. Choose one technique you have at **Mastered** rank. That technique gains an **Ascendant** benefit:
-  - If you chose **Brutal Finish**, when you use it, you can reroll one of the weapon's damage dice included in the extra damage and must use the new roll.
-  - If you chose a different technique, work with your DM to define an Ascendant benefit that extends its Mastered effect in the same spirit.
-  Additionally, once per long rest when you roll initiative, if you have 0 Exertion remaining, you gain 1 Exertion.
+- **Ascendant Mastery (18th Level)**. Choose one of the following techniques you have at **Mastered** rank. That technique gains the listed **Ascendant** benefit. Additionally, once per long rest when you roll initiative, if you have 0 Exertion remaining, you gain 1 Exertion.
+  - **Brutal Finish**: When you use it, you can reroll one of the weapon's damage dice included in the extra damage and must use the new roll.
+  - **Challenge**: While the target is challenged, you have advantage on opportunity attacks against it.
+  - **Iron Recovery**: When you gain temporary hit points from this technique, you also regain hit points equal to your Constitution modifier (minimum 1).
+  - **Heavy Blow**: The extra damage ignores resistance to bludgeoning, piercing, and slashing damage.
 
 ### Varnic Knight — Sigil and Spellbreak
 
@@ -213,11 +215,12 @@ Varnic Knights are offensive hybrid strikers who blend sigil magic with steel. *
 
 **Sigil Bond**. You cannot wear heavy armor. Your Varnic Knight features and sigil techniques function only while you are wearing or wielding equipment bearing at least one of your inscribed sigils.
 
-**Sigils**. When you finish a long rest, you can inscribe up to two **sigil charges** on a weapon, shield, or suit of armor you touch. Some techniques expend a charge; expended charges are restored when you finish your next long rest (or one charge when you finish a short rest starting at 14th level). While you have at least one charged sigil on your equipment, weapon attacks with that equipment count as magical.
+**Sigils**. When you finish a long rest, you can inscribe up to two **sigil charges** on a weapon, shield, or suit of armor you touch, and you choose the sigil's damage type (force, fire, or cold). Some techniques expend a charge; expended charges are restored when you finish your next long rest (or one charge when you finish a short rest starting at 14th level). While you have at least one charged sigil on your equipment, weapon attacks with that equipment count as magical.
 
 - **Rite of Binding (1st Level)**. You gain proficiency in the Arcana skill if you don't already have it.
 - **Cantrip Etching (1st Level)**. Choose one minor working that requires no sigil charge: your inscribed weapon sheds bright light in a 10-foot radius and dim light for 10 feet more (on or off as a bonus action), or you can cast *detect magic* by touching an object (a number of times equal to your proficiency bonus per long rest, no components required).
-- **Counter-Glyph (3rd Level)**. When you succeed on a saving throw against a spell or magical effect created by a creature you can see, you can use your reaction to deal force damage to that creature equal to your proficiency bonus + your Intelligence modifier. If the effect forced a saving throw, the caster also loses one spell slot of that spell's level (minimum 1st). You can strip a given caster's slot with this feature only once per long rest. You can use this reaction a number of times equal to your proficiency bonus per long rest.
+- **Sigil Edge (1st Level)**. While a weapon you are wielding bears one of your inscribed sigils (charged or not), once per turn when you hit a creature with that weapon, the target takes extra damage equal to your Intelligence modifier (minimum 1) of the sigil's damage type. This damage does not expend a sigil charge.
+- **Counter-Glyph (3rd Level)**. When you succeed on a saving throw against a spell or magical effect created by a creature you can see, you can use your reaction to deal force damage to that creature equal to your proficiency bonus + your Intelligence modifier. If the effect forced a saving throw, the caster also loses one spell slot of that spell's level if it has one; if it has none of that level, it loses one spell slot of the next lower level it has available (minimum 1st). If it has no spell slots remaining, the strip fails harmlessly and the force damage still applies. You can strip a given caster's slot with this feature only once per long rest. You can use this reaction a number of times equal to your proficiency bonus per long rest.
 - **Arcane Ambience (5th Level)**. When a hostile creature you can see within 60 feet casts a spell, until the end of your next turn the first time each turn you hit that creature with a weapon attack, the attack deals extra force damage equal to your proficiency bonus.
 - **Overcharge (9th Level)**. When you use a Varnic Knight technique that would expend a sigil charge, you can spend 1 Exertion to forgo expending the charge or to double the technique's damage or ward duration (your choice). You can overcharge a given technique only once per turn.
 - **Spellward Veteran (14th Level)**. When you finish a short rest, you can restore one expended sigil charge. When you use **Sigil Ward**, the resistance and saving throw benefits last for 1 minute or until you use Sigil Ward again (no concentration required).
@@ -237,7 +240,7 @@ The orders were founded in the wake of the Great Pact. Narthex formalized the Co
 - **Oath Sense (1st Level)**. Your sworn vows attune you to the violations your order forbids (see Orders, below). Any creature within 30 feet of you that matches your order's tenets is considered **detected by your Oath Sense**, even if it is invisible or hidden by mundane means (but not behind total cover). You learn its presence and general direction. As an action, you can extend your awareness to 60 feet; until the end of your next turn, the detection range is 60 feet instead of 30 feet.
 - **Oath Strike (3rd Level)**. You learn the **Oath Strike** Paladin technique at Familiar rank without spending technique points. You may still invest technique points to advance it to Practiced or Mastered. When you learn Oath Strike, choose one damage type from your order's three options (see Orders). This is your **Oath Damage** for all Oath Strike attacks, and you cannot change it without changing your order.
 - **Sworn Boon (3rd Level)**. You gain the signature ability of your order (see Orders).
-- **Aura of Conviction (5th Level)**. While you are conscious, you and friendly creatures within 10 feet of you have advantage on saving throws against being charmed or frightened. Your order grants one additional aura effect (see Orders).
+- **Aura of Conviction (5th Level)**. While you are conscious, you and friendly creatures within 10 feet of you have advantage on saving throws against being charmed or frightened. Your order grants one additional aura effect (see Orders). Advantage against being charmed or frightened from this aura does not stack with the same advantage from another aura or class feature (Use the higher bonus only).
 - **Cleansing Touch (6th Level)**. As an action, you can touch yourself or one willing creature within 5 feet and end one of the following on the target: the charmed, frightened, paralyzed, or poisoned condition, or one ongoing magical effect of 3rd level or lower (treat as *dispel magic* cast with a 3rd-level slot). You can use this feature a number of times equal to your Charisma modifier (minimum 1), and you regain all expended uses when you finish a long rest.
 - **Sacred Stride (7th Level)**. Your walking speed increases by 5 feet. You ignore difficult terrain while moving toward an ally within your Aura of Conviction. Magical effects that would reduce your speed have no effect on you.
 - **Battle Prayer (9th Level)**. As a reaction when you or an ally within 30 feet that you can see fails an attack roll, ability check, or saving throw, you can spend 1 Devotion to grant the failing creature advantage on a single reroll. The creature must use the new roll.
@@ -320,7 +323,7 @@ The Sangoman walk the open road with Myrdin's same austere code: no heraldry, no
 - **Aura addition**: Allies in your aura have advantage on saving throws against disease and poison.
 - **Greater Aura recommended**: necrotic.
 - **Sworn Boon — Mercy's Hand (3rd Level)**. When you use Lay on Hands, you can also end one of the following on the target at no extra cost: the blinded condition, the deafened condition, or one ongoing disease. You also have advantage on weapon attack rolls against undead creatures.
-- **Paragon's Mantle — Quiet Light (18th Level)**. You and each ally within 30 feet of you regain hit points equal to half of their hit point maximum. Each undead creature within 60 feet of you that can see you must make a Wisdom saving throw against your Paladin save DC. On a failed save, an undead of CR 5 or lower is destroyed, and an undead of higher CR takes 8d8 radiant damage and is frightened of you for the rest of the Mantle. On a successful save, the undead takes 4d8 radiant damage.
+- **Paragon's Mantle — Quiet Light (18th Level)**. You and each ally within 30 feet of you regain hit points equal to 5 × your fighter level. Each undead creature within 60 feet of you that can see you must make a Wisdom saving throw against your Paladin save DC. On a failed save, an undead of CR 5 or lower is destroyed, and an undead of higher CR takes 8d8 radiant damage and is frightened of you for the rest of the Mantle. On a successful save, the undead takes 4d8 radiant damage.
 
 ##### The Arbiters
 
@@ -336,19 +339,17 @@ The Arbiters serve Ostro's mandate of true counsel. They advise kings, magistrat
 
 ### Tarvanin
 
-Tarvanin are Fighters who perfected the guerilla tactics originally invented by the Cahokari. *Tarvana* comes from the Cahokari language and translates roughly to "commando," "strike," or "free" in Common. They focus on Dexterity alongside Strength, change weapons in an instant, and fight effectively at range and in close quarters. They carry useful utility and support options and work best alongside a coordinated group. Tarvanin status requires training under and allegiance to a city or state — not a Paragon order — and many operators keep their true identities secret during covert official work. Retired Tarvanin make excellent adventuring companions; fellow Tarvanin of the same allegiance are friendly toward one another and are expected to offer aid when asked.
-
-**Typical kit.** Tarvanin favor **Archery**, **Thrown Weapon Fighting**, or **Two-Weapon Fighting**; invest in **Quick Draw**, **Bounding Step**, **Withdraw**, **Feinting Strike**, and **Rally** from the general catalog; wear medium or light armor; and keep a ranged weapon and a melee weapon ready at all times.
+Tarvanin are Fighters who perfected the guerrilla tactics originally invented by the Cahokari. *Tarvana* comes from the Cahokari language and translates roughly to "commando," "strike," or "free" in Common. They favor Dexterity alongside Strength, changing weapons in an instant to bring the fight to their foes at range or in close quarters. The Tarvanin make excellent battlefield leaders and excell in a coordinated group. Tarvanin status requires training under and allegiance to a city or state, though it is common for members to keep their true identities a secret. Fellow Tarvanin of the same allegiance are expected to offer aid when asked. 
 
 **Loadout**. When you finish a long rest, designate one weapon you are carrying as your **primary** weapon and one as your **secondary** weapon (your secondary can include a shield). **Quick Change** swaps your active loadout between them.
 
 - **Tarvana Training (1st Level)**. You gain proficiency in the Stealth skill if you don't already have it. Once per turn, drawing or stowing a weapon doesn't cost you an object interaction.
-- **Quick Change (1st Level)**. As a bonus action, you swap between your primary and secondary weapons, including stowing or donning a shield if it is part of your secondary loadout.
-- **Skirmisher's Step (2nd Level)**. If you move at least 5 feet before making your first weapon attack on a turn, that attack deals extra damage equal to your proficiency bonus. You can deal this extra damage only once per turn.
+- **Quick Change (1st Level)**. As a bonus action, you swap between your primary and secondary weapons, including stowing or donning a shield if it is part of your secondary loadout. Once per short or long rest, you can perform Quick Change as part of making a weapon attack (no bonus action required).
+- **Skirmisher's Step (2nd Level)**. If you move at least 5 feet before making your first weapon attack on a turn, that attack deals extra damage equal to your proficiency bonus. This extra damage uses the Mastery Damage budget (once per turn among sharing sources, including Weapon Group Mastery).
 - **Fire Team Maneuver (3rd Level)**. You learn the **Fire Team Maneuver** Tarvanin technique at Familiar rank without spending technique points. You may still invest technique points to advance it to Practiced or Mastered.
 - **Operational Range (5th Level)**. Your ranged weapon attacks ignore half cover. When you make a ranged attack with a thrown weapon, its normal range increases by 10 feet (in addition to any increase from your fighting style).
 - **Extract (7th Level)**. As a bonus action, you can take the Disengage action. When you do, one ally of your choice within 5 feet of you can use its reaction to take the Disengage action.
 - **Pinned Down (9th Level)**. Once per turn when you hit a creature with a ranged weapon attack, its speed is reduced by 10 feet until the start of your next turn.
 - **Deep Cover (11th Level)**. You have advantage on Dexterity (Stealth) checks made to hide when combat begins. You can attempt to hide when you are lightly obscured by foliage, heavy rain, falling snow, mist, or similar phenomena.
 - **Coordinated Volley (14th Level)**. Once per turn when you hit a creature with a weapon attack, one ally within 30 feet of you can use its reaction to make one ranged or thrown weapon attack against that creature.
-- **Free Strike (18th Level)**. Once per long rest, immediately after your current turn ends, you take an additional turn. Your initiative count does not change. On that turn, you can use **Quick Change** once without spending a bonus action.
+- **Free Strike (18th Level)**. Once per long rest, immediately after your current turn ends, you take a **strike turn**. On that turn, you can move up to half your speed and take the Attack action with at most two attacks. You cannot use Action Surge on the strike turn, and Extra Attack (2) does not grant you a third attack on it. You can use **Quick Change** once on the strike turn without spending a bonus action. Your initiative count does not change.
