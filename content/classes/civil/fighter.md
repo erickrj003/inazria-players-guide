@@ -31,9 +31,9 @@ You start with the following equipment, in addition to the equipment granted by 
 ### Core Class Features
 - **Martial Proficiency (1st Level)**. Your training covers the full spectrum of arms and armor. You ignore the Strength requirement of armor you are proficient with. When you attack with a weapon you are proficient with, you can use Strength or Dexterity for the attack and damage rolls (your choice for each attack).
 - **Fighting Style (1st Level)**. You adopt a practiced approach to combat. Choose one fighting style from the list below. At 10th level, you learn a second fighting style. Whenever you finish a long rest, you can replace one of your fighting styles with a different option from the list.
-- **Exertion (1st Level)**. You can push your body and focus beyond comfortable limits. You have a number of **Exertion** equal to your proficiency bonus. You regain all expended Exertion when you finish a short or long rest.
-  - **Second Wind** (1 Exertion, bonus action). You regain hit points equal to 1d10 + your fighter level.
-  - **Action Surge** (2 Exertion, on your turn). You take one additional action.
+- **Exertion (1st Level)**. You can push your body and focus beyond comfortable limits. You have a number of **Exertion** equal to your proficiency bonus. You regain all expended Exertion when you finish a long rest.
+  - **Endurance Training** (1 Exertion, bonus action). You regain hit points equal to 1d10 + your fighter level.
+  - **Adrenaline Blitz** (2 Exertion, on your turn). You take one additional action.
   - **Improvised Technique** (1 Exertion). When you use a technique you are untrained in, you must spend this Exertion (see Combat Techniques).
 - **Combat Techniques (1st Level)**. You are exposed to the full catalog of Fighter techniques (see Fighter Techniques). Any technique may be attempted, but only invested techniques work without penalty or Exertion cost.
   - **Technique Points**. You gain **2 technique points** when you take your first fighter level. Each time you gain a fighter level thereafter, you gain 1 additional technique point.
@@ -55,7 +55,7 @@ You start with the following equipment, in addition to the equipment granted by 
   - **Context Techniques**. Techniques granted by your context are added to your available list and follow the same rank rules.
 - **Weapon Group Mastery (2nd Level)**. Choose two weapon groups: axes, blades, bludgeons, bows, crossbows, polearms, or thrown weapons. When you hit with a weapon attack using a weapon from a mastered group, you deal extra damage equal to your proficiency bonus. This extra damage uses the Mastery Damage budget (once per turn among sharing sources).
   - At 6th level, choose a third weapon group. At 13th level, choose a fourth.
-- **Veteran's Focus (2nd Level)**. When you finish a short rest, you regain 1 expended Exertion (in addition to the Exertion you normally regain).
+- **Veteran's Focus (2nd Level)**. When you finish a short rest, you regain 1 expended Exertion.
 - **Tactical Assessment (3rd Level)**. As a bonus action, you study one creature you can see within 30 feet. Until the end of your next turn, you have advantage on attack rolls against that creature, and the first time you hit it with a weapon attack on your turn, you deal extra damage equal to your proficiency bonus. You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 - **Ability Score Improvement (4th, 8th, 12th, 16th, 19th Levels)**. Increase one ability score by 2, or two ability scores by 1 (to a maximum of 20).
 - **Extra Attack (5th Level)**. When you take the Attack action on your turn, you can attack twice instead of once.
