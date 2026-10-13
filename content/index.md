@@ -16,7 +16,8 @@ This game is an actively updated WIP. The game is built on the core D&D 5.1e rul
 - [Races](races/humans.md) — The peoples of Azergad. Inazria itself is primarily home to the Humans, but the Realms of Bisengal, Zilwunbar, the Kystrilands, the Violet Sea, Avarazhan and Azelliot are each inhabited by their own native races of men.
 - [Spells](spells/index.md) — A complete spell lists and descriptions used by Inazria's casters (work in progress!)
 - [Rules](rules/index.md) — An index page of rules articles. The plan is to add/modify existing rules to better fit the Inazria setting when necessary. If you are looking for something specific that isn't addressed here, consult the 5.1e SRD rules.
-- [Lore](lore/lore.md) — Available knowledge on the Realms, the Pact, geography, etc. Check back for regular updates as I continue writing.
+- [Geography](lore/geography.md) — Azergad, the Realms of the Pact, and the cities that inhabit them.
+- [Lore](lore/lore.md) — The Great Pact, the Paragons, and the history of the Realms. Check back for regular updates as I continue writing.
 - [Speaking Like an Azergadling](lore/speaking-like-an-azergadling.md)
 
 ## Copyright Notice

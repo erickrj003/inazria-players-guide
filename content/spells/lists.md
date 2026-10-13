@@ -44,7 +44,7 @@ Hallmark spells from your context count as Invoker spells for you and are always
 
 ## Magi
 
-This is the broadest list in the compendium, and it is a single shared list. Every Magi context prepares from all of it. Contexts differ in what they can do with a spell, never in which spells they can reach, except that the Nafazi context also gains Restoration spells (listed below).
+This is the broadest list in the compendium, and it is a single shared list. Every Magi context prepares from all of it. Contexts differ in what they can do with a spell, never in which spells they can reach, except that the Nafazi context also gains Vitality spells (listed below).
 
 | Level | Spell |
 |---|---|
@@ -59,7 +59,7 @@ This is the broadest list in the compendium, and it is a single shared list. Eve
 | 8th | Antimagic Field (C), Clone, Control Weather (C), Incendiary Cloud (C), Maze (C), Mind Blank, Sunburst |
 | 9th | Foresight, Imprisonment, Meteor Swarm, Power Word Kill, Time Stop, True Polymorph (C) |
 
-### Nafazi Restoration
+### Nafazi Vitality
 
 These spells are Magi spells for a Nafazi only. A Nafazi prepares them from the same pool as other Magi spells and uses Wisdom as the spellcasting ability when casting them. Other Magi may attempt them only through Improvised Spellcasting.
 
