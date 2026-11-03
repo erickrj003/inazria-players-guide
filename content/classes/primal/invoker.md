@@ -72,7 +72,7 @@ You are an arcane spellcaster whose magic flows from the authority your Progenit
   - You can gain at most 1 Resonance point per turn. You can gain Resonance from the Help action only while you are in initiative, and no more than a number of times equal to your proficiency bonus per long rest.
   - When you cast an invoker spell, you can spend 1 Resonance point to apply one effect to that spell (choose when you cast): either one base option below or one Resonance option granted by your context. You cannot apply both a base option and a context option to the same spell unless you have Apex of the Lineage.
     - Empower: Add +1 to the spell's save DC or +2 to one spell attack roll.
-    - Displace: Move yourself or one target of the spell up to 10 feet; this movement doesn't provoke opportunity attacks.
+    - Displace: Move yourself or one friendly target of the spell up to 10 feet; this movement doesn't provoke opportunity attacks.
     - Aegis: One target of the spell gains temporary hit points equal to your proficiency bonus.
     - Hamper: If the spell deals damage to or imposes a condition on a creature, that creature's speed is reduced by 10 feet until the start of your next turn.
   - Your context grants additional ways to gain Resonance and unique spends (see Contexts). Spending Resonance on Imprint Shift uses the same pool and counts as your Resonance spend for that cast if you spend it when you cast.
