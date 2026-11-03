@@ -1,12 +1,12 @@
 # Inazria Player's Guide
 
-Public Quartz site for the Inazria player's guide. Hosted on GitHub Pages.
+Hey there! This is the public Quartz site containing the Inazria Player's Guide.
 
 ## Source of truth
 
-Player-facing Markdown is authored in the private [`inazria`](https://github.com/erickrj003/inazria) vault under `player/`. Do not treat this repository as the place to draft setting content.
+Player-facing Markdown is authored in the private [`inazria`](https://github.com/erickrj003/inazria) repo under `player/`. Do not treat this repository as the place to draft setting content.
 
-Publish from the vault with:
+Publish from the Inazria repo with:
 
 ```powershell
 .\scripts\publish-players-guide.ps1
