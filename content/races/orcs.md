@@ -11,29 +11,35 @@ At one time, a revived Dramakha empire conquered vast swaths of Inazria and Zilw
 ### Traits
 
 - **Ability Score Increase**: +2 Strength
-- **Age**: Orcs mature by age 16 and live up to 80 years.
+- **Age**: Orcs mature by age 16 and live up to 120 years.
 - **Size**: Orcs are larger and bulkier than humans. Your size is Medium.
 - **Speed**: Your base walking speed is 30 feet.
 - **Darkvision**: You can see in dim light within 60 feet as if it were bright light, and in darkness as if it were dim light in shades of gray.
-- **Relentless Endurance**: An orc's honor is measured by what they have withstood. When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can't use this trait again until you finish a long rest.
-- **Tempered Strength**: Like the metallurgy that built their empires, orcs are taught to be hardened by every blow and rise stronger than they were struck. Once per short or long rest, when you hit a creature with a melee weapon attack, you can deal extra damage equal to your proficiency bonus, or twice your proficiency bonus if you are below half your hit point maximum.
+- **Relentless Endurance**: When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can't use this trait again until you finish a long rest.
+- **Tempered Strength**: Once per short or long rest, when you hit a creature with a melee weapon attack, you can deal extra damage equal to your proficiency bonus, or twice your proficiency bonus if you are below half your hit point maximum.
 - **Powerful Build**: Generations of labor, war, and survival in Bisengal's badlands have built frames to match. You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
-- **Languages**: You can speak, read, and write Common and Orcish. Orcish is a harsh, guttural language with sharp consonants that carries well across Bisengal's windswept landscapes.
+- **Languages**: You can speak, read, and write Common and Orcish. Orcish is a deep, harsh, guttural language with sharp consonants that carries well across Bisengal's windswept landscapes.
 
 ### Dramkhani
 
-The Dramkhani are the heartland orcs of the Targai steppe and the heirs of the ancient Dramakha, the first empire to rule Azergad. The Dramkhani are traditionally nomadic people, following the grass and the seasons across the frostbitten steppe. From among the Dramkhani come the rulers of Khurz-Marn and the Paragon Karhu herself, and it is they who keep alive the old dream of empire reborn. They are the archetype against which the other orcs are measured: tall and powerfully built, with weathered skin in deep forest-greens and grey-browns, dark hair worn in long braids, and eyes of amber or brown.
+The Dramkhani are the heartland orcs of the Targai steppe and the heirs of the ancient Dramakha, the first empire to rule Azergad. The Dramkhani are traditionally semi-nomadic people, following the grass and the seasons across the frostbitten but fertile steppe. From among the Dramkhani come the rulers of Khurz-Marn, the capital and great city of Bisengal, and the Paragon Karhu herself. The Dramkhani peoples and clans are expansive and powerful. To this day, the Dramkhani diaspora is among the most widespread across Azergad. It is common to find Dramkhani in positions of power wherever they go. 
 
-- **Ability Score Increase**: +1 Constitution
-- **Language**: You can speak Targun, the ancient tongue of the first Dramakha empire; in fact, modern Orcish descends directly from it. To speak Targun is to speak as the old emperors did, and it is considered the honorable mark of pure orcish heritage.
+Dramkhani are regal, tall and powerfully built, with weathered skin in deep forest-greens and grey-browns, dark, thin hair commonly worn in long, tight braids, and eyes of amber or brown.
+
+- **Ability Score Increase**: +1 Charisma
+- **Language**: You can speak Targun, the ancient tongue of the first Dramakha empire. In fact, modern Orcish descends directly from it. To speak Targun is to speak as the old emperors did, and fluency is considered the honorable mark of pure Orcish heritage.
 - **Brutal Presence**: You have proficiency in the Intimidation skill, and you can make Intimidation checks using your Strength modifier in place of Charisma.
 - **Life on the Move**: Your nomadic heritage equips you for an adventuring lifestyle. You have proficiency in Survival, and you gain advantage on Constitution saving throws made against suffering the effects of exhaustion.
 
 ### Gushbek
 
-The Gushbek were once a roaming caste of traders and explorers who charted the least-touched corners of Bisengal, mapping the wastes no clan dared to claim. At the height of the Dramakha empire, it was they who were called upon to shepherd goods and travelers across the treacherous Oztagh. This is the origin of their name: in the old Dramakha tongue, Gushbek means "runners of the horizon." Their skills and knowledge of the desert is unparalleled. 
+The Gushbek were once a roaming caste of traders, cattle herders and explorers who charted the untouched corners of rural Bisengal. At the height of the Dramakha empire, it was the Gushbek caste which caravaned goods and travelers across the treacherous Oztagh. This is the origin of their name: in the old Dramkhani tongue, Gushbek means "windswept runner." Their skills and knowledge of the Oztagh desert is unparalleled. 
 
-The Dramakha clans regarded the Gushbek as a lesser people, and for generations subjected them to duress and persecution. When civil war at last broke the empire, the Gushbek claimed the whole of the Oztagh as their own sovereign land, including parts of Zilwynbar's northern wetlands where predominantly Gushbek towns and cities still stand today. The Dramakha marched to take the desert back, and there the Gushbek held, again and again, often against far greater numbers. Accounts of those skirmishes are modern fables, telling of feats so daring and so cunning they have passed into legend. In the years since, both sides have settled into an uneasy, mutually beneficial separation: two peoples, two territories, one shaky but unbroken Bisengal. Gushbek and Halfling relations continue to be a longstanding friendship of trade and trust. Gushbek stand tall and slender beside their cousins, with tan skin in many shades, eyes of gold, amber, or sky blue, and thick dark hair bound tight against the wind and sand.
+For generations, The Dramakha royalty old regarded the Gushbek as a lesser people. As a result, they were (and still to this day) subjected to a degree of duress and persecution. When civil war at last fractured the Dramakha empire, intrepid Gushbek leaders claimed the whole of the Oztagh as sovereign land, including parts of Zilwynbar's northern wetlands. The Dramakha marched to take back their territory, but the Gushbek and their Wendric allies held their ground, again and again, often against far greater numbers. Accounts of those skirmishes are now modern fables: tales of unbelievably daring and cunning feats which have since passed into legend. In the years since, both sides have settled into an uneasy but mutually beneficial separation. 
+
+Gushbek and Halfling relations continue to be among Azergad's most longstanding alliances. Among the many wandering caravans of Wendric traders, it is rare not to find Gushbek companions. Even amongst the crowds of Thilidan and Marlis, the two peoples can trust that family ties are likely to make fast friends out of strangers.
+
+Gushbek stand tall and slender beside other Orcish kin, with tan and grey skin in many shades and eyes of gold, amber, or sky blue, complete with thick dark hair bound tightly to combat the wind and sand.
 
 - **Ability Score Increase**: +1 Dexterity
 - **Language**: You can speak Gushbek, a guttural language commonly used throughout rural Bisengal that is mutually unintelligible with standard Orcish. However, the language exists as a spectrum and is highly contextual, from near-Orcish in the northern wetlands to something closer to Uncommon trade-speech in the south. Merchants crossing the Kerangala learn a few phrases whether they mean to or not.
@@ -43,11 +49,13 @@ The Dramakha clans regarded the Gushbek as a lesser people, and for generations 
 
 ### Barithani
 
-The Barithani trace their roots to the Dramkhani clans who spearheaded the conquests of the first Dramakha empire, feared in their day as bloodthirsty marauders who dabbled in forsworn magic. When the empire first fell, the surviving clans turned on them, and the Barithani were cast out of Bisengal entirely. Neither Inazria nor Zilwynbar would harbor such a people, and so they fled to the one place none would follow: the lightless lower depths of the Veldt. There, over thousands of years in perpetual twilight beneath the canopy, they became something apart. Now, the Barithani are expert hunters and trappers who move in silence across the forest floor, raising hidden settlements within root systems and fallen logs, and surviving in no small part on the supplies they take from travelers who stray too low along the Veldt's paths.
+The Barithani trace their roots to the Barith, the high Dramkhani clan who spearheaded the conquests of the first Dramakha empire. These people were particularly feared in their day for their reputation as bloodthirsty marauders that freely dabbled in forsworn magic. When the empire first fell, the surviving royal Dramkhani clans agreed to turn on the Barith out of fear, banishing them people from Bisengal entirely. Neither Inazria nor Zilwynbar would tolerate such barbaric people. After a 10 year period of wandering, the Barithani eventually fled to the one place no race of man would dare follow - it was the lightless lower depths of the Veldt, a hellish place called the Thograk. There, over thousands of years in perpetual twilight beneath the canopy, the Barithani became a new people of their own right. 
 
-Generations in the dark have reshaped them. Barithani skin has grown pale, ashy and desaturated to colors of ash-grey, ecru, beige, or light scarlets; their eyes burn red or amber and catch the faintest light; their features are sharp and angular, their fanged maws fuller than other orcs', and their nails blackened. To the rest of the world they appear fearsome, with a cultivated reputation to match.
+In the modern day, the Barithani are expert hunters and trappers who move in silence across the forest floor. They have learned to raise hidden settlements within root systems and fallen logs, and survive in no small part on the supplies they plunder from innocent travelers which stray too low off the Veldt's beaten paths.
 
-- **Ability Score Increase**: +1 Charisma
+Generations in the dark have reshaped them. Barithani skin has grown pale, ashy and desaturated to colors of ash-grey, ecru, beige, or light scarlets; their eyes burn red or amber and catch the faintest light; their features are sharp and angular, their fanged maws fuller than other Orcs, and their nails long and blackened. To the rest of the world, their cultivated reputation matches their fearsome appearance.
+
+- **Ability Score Increase**: +1 Constitution
 - **Language**: You can speak Barithani, a more elegant evolution of Dramkhani that borrows words and phrases from Veldtwin and Yorokai.
 - **Forest Camouflage**: You have proficiency in Stealth. When in forest terrain, you can attempt to hide even when only lightly obscured by foliage.
 - **Tracker's Sense**: You have proficiency in Survival. You can track creatures that passed through an area up to 7 days ago, and you can identify the creature's approximate size and direction of travel.
